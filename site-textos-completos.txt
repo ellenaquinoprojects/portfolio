@@ -1,0 +1,1136 @@
+================================================================================
+                    ELLEN AQUINO - TEXTOS COMPLETOS DO SITE
+================================================================================
+
+Dados Básicos
+-------------
+Nome: Ellen Aquino
+Tagline: Product & Strategy
+Email: ellen.lcaquino@gmail.com
+Telefone Canadá: +1 (438) 465-4581
+Telefone Brasil: +55 (19) 9824-80184
+WhatsApp: https://w.app/moiuje
+LinkedIn: https://www.linkedin.com/in/ellencarvalho/
+Lattes: https://www.escavador.com/sobre/8559733/ellen-larissa-de-carvalho-aquino
+CV PDF: https://drive.google.com/file/d/13L7yKxoGDk2sVjwjamJK-x_YW8ML-SJs/view?usp=sharing
+
+
+================================================================================
+                                    HOME
+================================================================================
+
+Headline Principal
+------------------
+Product & Strategy
+
+Subheadline
+-----------
+Transformo dores reais em soluções escaláveis, equilibrando valor de negócio, experiência e viabilidade técnica.
+
+Status de Disponibilidade
+--------------------------
+Aberta a projetos: Canadá, Europa, Brasil
+
+Call to Action
+---------------
+Leia Algoritmos e Sociedade
+
+Seções da Home
+--------------
+- Experiência
+- Formação
+- Projetos em destaque
+- Ver todos os projetos
+
+
+================================================================================
+                                EXPERIÊNCIA
+================================================================================
+
+Título da Página
+----------------
+Experiência
+
+Descrição
+---------
+Mais de 10 anos conectando necessidades do usuário, metas de negócio e viabilidade técnica em projetos globais.
+
+Seções
+------
+- Experiência (employers/empregadores)
+- Formação (universities/universidades)
+
+
+--- EXPERIÊNCIA PROFISSIONAL ---
+
+1. Head of Processes and Strategies in QA | Product Strategist
+   Empresa: QualityMap
+   Localização: Portugal
+   Período: 2023 — presente
+   
+   Destaques:
+   • Descoberta e estratégia de produto em estágios early e growth, alinhando insights, viabilidade técnica e valor de negócio.
+   • Co-criação de estratégias com PM/Design/Tech Leads; priorização de roadmap e critérios de sucesso.
+   • Loops de feedback, métricas e experimentação integrados a discovery e delivery.
+
+
+2. Quality and Security — Head (ex: QA Developer)
+   Empresa: 3778 inc.
+   Localização: Brasil
+   Período: 2020 — 2023
+   
+   Destaques:
+   • Estratégias de qualidade e segurança em múltiplas frentes B2B/B2C; parceria no planejamento e entrega.
+   • Escalonamento de operações de qualidade e autonomia das equipes; contribuição em OKRs e processos.
+
+
+3. Community and Product Manager | Posição anterior: QA Developer
+   Empresa: Photozig Inc — NASA Research Park
+   Localização: Estados Unidos
+   Período: 2018 — 2020
+   
+   Destaques:
+   • Convidada pela CEO para implementar a área de Qualidade, iniciando atividades em conjunto com a equipe de desenvolvimento e garantindo a execução de um processo de suporte de qualidade para aplicações Web e Mobile (iOS e Android).
+   • Posteriormente, assumi a Gestão Estratégica de Desenvolvimento de Produto, assegurando a consolidação do processo de qualidade na construção de produtos voltados à comunidade de clientes.
+
+
+4. QA Developer | Posição anterior: Customer Experience
+   Empresa: Neon Bank
+   Localização: Brasil
+   Período: 2017 — 2018
+   
+   Destaques:
+   • Iniciei na área de Experiência do Cliente, com o objetivo de aprimorar e desenvolver aplicações para os usuários do banco. Essa função me proporcionou uma visão profunda sobre as necessidades e dores do usuário (cliente).
+   • Posteriormente, fui designada para a área de Qualidade, com o desafio de desenvolver e implementar uma estrutura de QA que ainda não existia na empresa.
+
+
+5. Analista de Suporte (Squad Leader)
+   Empresa: Chuva Inc
+   Localização: Brasil
+   Período: 2015 — 2016
+   
+   Destaques:
+   • Atuei liderando squads de suporte técnico e operações internas, contribuindo para a melhoria contínua dos fluxos de atendimento e para o desenvolvimento de práticas colaborativas entre as equipes de tecnologia e produto.
+
+
+6. QA Developer
+   Empresa: Betha System
+   Localização: Brasil
+   Período: 2014 — 2015
+   
+   Destaques:
+   • Responsável pela validação de software e testes funcionais em sistemas corporativos, garantindo conformidade técnica e qualidade nas entregas.
+   • Participei da estruturação inicial dos processos de QA e automação.
+
+
+7. Pesquisadora em Usabilidade (Bolsista CAPES/CNPq)
+   Empresa: New Fasant S.L.
+   Localização: Espanha
+   Período: 2013
+   
+   Destaques:
+   • Pesquisadora visitante em projetos de usabilidade e interação humano-computador.
+   • Desenvolvi análises de experiência do usuário aplicadas a ferramentas científicas, como parte de um intercâmbio acadêmico com bolsa CAPES/CNPq.
+
+
+--- FORMAÇÃO ACADÊMICA ---
+
+1. Mestrado em Science, Technology and Society
+   Instituição: UFSCar
+   Período: 2019–2020
+   Nota: Tese sobre algoritmos como objeto sociotécnico
+
+2. Posgrad: Technology, Politics and Subjectivity
+   Instituição: CLACSO
+   Período: 2021
+
+3. Bacharelado em TIC (Applied CS)
+   Instituição: UFSC
+   Período: 2010–2016
+
+4. Exchange em Telemática
+   Instituição: UAH (Espanha)
+   Período: 2012–2013
+
+
+--- EMPRESAS (Logo Wall) ---
+• QualityMap (https://qualitymap.io)
+• 3778 (https://3778.care)
+• Photozig, Inc. at NASA Research Park (https://photozig.com)
+• Neon (https://neon.com.br)
+• Chuva inc. (https://chuva.io)
+• BETHA (https://www.betha.com.br)
+• Instituto Tecnologia & Equidade (https://tecnologiaequidade.org.br)
+• Nutes UFRJ (https://www.nutes.ufrj.br)
+
+--- UNIVERSIDADES (Logo Wall) ---
+• UFSC (https://ufsc.br)
+• Universidad de Alcalá (https://www.uah.es)
+• UFSCar (https://www.ufscar.br)
+• CLACSO (https://www.clacso.org)
+
+
+================================================================================
+                                 PORTFOLIO
+================================================================================
+
+Título da Página
+----------------
+Portfolio
+
+Descrição
+---------
+Projetos que equilibram descoberta, entrega e melhoria contínua.
+
+Filtros
+-------
+- Todos
+- Filtrar por área
+- Limpar filtros
+
+Call to Action
+---------------
+Ler caso
+Parceiros
+
+
+--- PROJETO 1: GG HUB PLATFORM — APPROACH TOURS ---
+
+Título: GG Hub Platform — Approach Tours
+
+Tags: Product Strategy | Full-Stack Development | UI/UX Design | Database Integration | Operations
+
+Resumo:
+Plataforma interna para centralizar operações e comunicações de grupos de viagem +50.
+
+Quick Info:
+• Problema: Operações gerenciadas por múltiplas planilhas dispersas, causando lentidão e erros em processos críticos de coordenação de viagens.
+• Processo: Discovery operacional → Mapeamento de jornadas → UI Design para 3 perfis → Integração Supabase → Testes iterativos.
+• Solução: Hub centralizado com autenticação por perfil, gestão de tours, cronogramas e checklists — interface acessível para público +50.
+
+Status:
+Em desenvolvimento — versão MVP em validação com usuários internos
+
+Desafio:
+Com o crescimento das operações e aumento no número de grupos, a Approach Tours enfrentava processos lentos e propensos a erro. O desafio era unificar informações dispersas em planilhas e criar uma experiência simples e acessível para um público com diferentes níveis de familiaridade digital.
+
+Abordagem:
+Hub digital centralizado desenvolvido em 4 frentes: (1) Ideação e Planejamento com stakeholders para definição do MVP; (2) UI Design para 3 perfis (admin, guia, viajante); (3) Integração Supabase com modelagem completa de dados; (4) Validação iterativa com testes de usabilidade e ajustes baseados em feedback.
+
+Papel/Role:
+Product Lead responsável pela concepção end-to-end: arquitetura funcional, design de interface, integração de banco de dados, e coordenação de testes com usuários.
+
+Funcionalidades-chave:
+• Sistema de autenticação com perfis diferenciados (Admin, Guia, Viajante)
+• Gestão centralizada de tours e cronogramas
+• Interface acessível e intuitiva para público +50
+• Integração completa com Supabase para persistência de dados
+• Checklists operacionais e ferramentas de coordenação
+
+Apoiadores:
+• Approach Tours (https://approachtours.com)
+
+
+--- PROJETO 2: QUALITYMAP APP — SPINOFF E PLATAFORMA DE INTELIGÊNCIA EM QUALIDADE ---
+
+Título: QualityMap App — Spinoff e Plataforma de Inteligência em Qualidade
+
+Tags: Product Leadership | BI + AI | SaaS | Data Analytics | Spinoff
+
+Resumo:
+Plataforma de Business Intelligence com IA que transforma qualidade em motor estratégico de crescimento, conectando produto, processos e pessoas através de diagnósticos automatizados, análises preditivas e dashboards dinâmicos.
+
+Quick Info:
+• Problema: Mercado de qualidade atua reativamente sem ferramentas integradas, gerando retrabalho, desperdício e decisões baseadas em percepção ao invés de dados.
+• Processo: User Discovery → Data Modeling (7 dimensões de maturidade) → AI/ML integration → Virtual Assistant + Financial Calculator → Multitenant architecture.
+• Solução: Plataforma BI+AI com diagnósticos automatizados, análises preditivas, dashboards dinâmicos e assistente virtual consultivo — transforma QA em motor estratégico.
+• Resultado: 664 acessos e 50 empresas ativas em 6 meses sem mídia paga • MVP validou tração orgânica e product-market fit
+
+Desafio:
+Equipes de qualidade atuam reativamente sem visão estratégica integrada. O desafio era reposicionar QA de centro de custo para motor de crescimento orientado por dados, escalando o know-how consultivo em plataforma autônoma.
+
+Abordagem:
+Spinoff BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.
+
+Papel/Role:
+CPO & Co-Founder. Defini visão/roadmap, liderei discovery e modelagem de dados (7 dimensões), orientei design/desenvolvimento de features-chave garantindo usabilidade, escalabilidade e impacto mensurável.
+
+Funcionalidades-chave:
+• Maturity Score (QualityScore) integrado como métrica central
+• Virtual Assistant com lógica consultiva e geração de diagnósticos
+• Financial Impact Calculator que converte gaps de qualidade em valor monetário
+• Custom KPIs & Dashboards adaptados a cada perfil
+• Predictive Analytics para antecipar riscos e oportunidades
+• Modular multitenant architecture, permitindo escala com baixo custo marginal
+
+Visão Estratégica:
+Transformando Qualidade em Visão Estratégica
+A plataforma oferece visualizações avançadas que transformam dados brutos em insights estratégicos. Através de gráficos interativos e análises multidimensionais, gestores podem identificar tendências, prever riscos e tomar decisões baseadas em evidências concretas.
+
+Links:
+• QualityMap Platform (https://qualityscore.qualitymap.io/login)
+
+
+--- PROJETO 3: QUALITYSCORE — METODOLOGIA DE AVALIAÇÃO DE MATURIDADE DE QUALIDADE ---
+
+Título: QualityScore — Metodologia de Avaliação de Maturidade de Qualidade
+
+Tags: Assessment | Data Science | Quality Strategy | Analytics
+
+Resumo:
+Modelo proprietário que utiliza dados e análise estatística para classificar a maturidade de qualidade de software em sete dimensões-chave, gerando insights acionáveis para governança e evolução estratégica.
+
+Quick Info:
+• Problema: Organizações sem capacidade de medir maturidade de qualidade de forma ampla e precisa, limitando priorização e melhorias estruturadas.
+• Processo: Framework de 100 perguntas em 7 dimensões → Análise estatística (correlação + clusterização) → Gráficos radar + mapas de calor → Planos de ação (GOALS).
+• Solução: Modelo proprietário com escala de 0-5 níveis de maturidade, combinando análise quantitativa e qualitativa para índice integrado e benchmarking.
+• Resultado: Metodologia adotada como métrica periódica de governança • Permite benchmarking entre empresas e estratégias personalizadas de evolução
+
+Desafio:
+Organizações não tinham ferramentas para medir maturidade de qualidade de forma estruturada e comparável, dificultando priorização e investimentos estratégicos.
+
+Abordagem:
+Framework proprietário com 100 perguntas em 7 dimensões (Processos, Automações, Métricas, Testes, Documentações, QAOps, Liderança). Combina análise quantitativa (escala 0-5 + ponderação) e qualitativa (correlação + clusterização) para índice integrado.
+
+Papel/Role:
+Concepção metodológica, modelagem estatística, desenho de visualizações (radar + mapas de calor) e framework de interpretação para planos de ação.
+
+Metodologia:
+• Instrumento: 100 perguntas distribuídas entre os sete pilares, avaliadas em escala de 0 a 5.
+• Processamento: Cálculo de médias e pesos por perfil, análise de correlação, clusterização e modelagem fatorial.
+• Visualização: Gráficos de radar e mapas de calor para leitura tática e estratégica.
+• Interpretação: Geração de planos de ação (GOALS) e mapeamento de forças e fragilidades por dimensão.
+
+Níveis de Maturidade:
+• Nível 0 — Agnóstico: Desconhecimento sobre práticas de qualidade
+• Nível 1 — Consciência: Reconhecimento da importância da qualidade
+• Nível 2 — Inicialização: Implementação básica de práticas
+• Nível 3 — Domínio: Práticas consolidadas e padronizadas
+• Nível 4 — Experiência: Otimização contínua e inovação
+
+Dimensões Avaliadas:
+1. Processos e Estratégias
+2. Automações
+3. Métricas
+4. Modalidades de Testes
+5. Documentações
+6. QAOps
+7. Liderança
+
+Impacto:
+O QualityScore passou a ser utilizado como métrica periódica de governança de qualidade na QualityMap, permitindo:
+• Benchmarking entre empresas
+• Identificação de tendências de maturidade
+• Apoio à priorização de investimentos em qualidade
+• Formulação de estratégias personalizadas de evolução
+
+Links:
+• QualityScore — QualityMap (https://qualitymap.io/en/quality-score)
+• WK recebe reconhecimento internacional por excelência em qualidade de software (https://www.noticenter.com.br/n.php?ID=39658&T=wk-recebe-reconhecimento-internacional-por-excelencia-em-qualidade-de-software)
+
+Mídia:
+• Artigo sobre a metodologia QualityScore (https://blog.qualitymap.io/quality-score)
+
+
+--- PROJETO 4: ENSINO COM MUNDOS 3D + LABORATÓRIOS REMOTOS ---
+
+Título: Ensino com Mundos 3D + Laboratórios Remotos
+
+Tags: EdTech | 3D Virtual Worlds | Remote Labs | Open Source
+
+Resumo:
+Ambiente de ensino-aprendizagem imersivo que integra mundos virtuais 3D com experimentação remota real, desenvolvido com tecnologias open source.
+
+Quick Info:
+• Problema: Mundos virtuais educacionais não proporcionavam acesso à experimentação real, limitando a experiência prática dos estudantes à distância.
+• Processo: Integração MOODLE + OpenSim + SLOODLE (tecnologias open source) → Implementação de laboratórios remotos reais → Design de experiência imersiva → Validação pedagógica.
+• Solução: Ambiente 3D com representações sociais integrado a laboratórios de experimentação remota real, proporcionando realidade científica mediada por distância.
+• Resultado: Publicação científica indexada • Ambiente validado com estudantes • Modelo replicável para instituições educacionais open source
+
+Desafio:
+Mundos virtuais representam um meio poderoso para ensino-aprendizagem que, através da consciência do ambiente, permitem manter interações sociais, as quais podem se constituir em base para educação colaborativa. O desafio era criar um ambiente que fornecesse acesso à informação de forma dinâmica e interativa, mais próximo da realidade física dos estudantes, facilitando e aumentando a motivação nas tarefas de aprendizagem virtual.
+
+Abordagem:
+O projeto contempla a implementação de um ambiente que utiliza representações sociais 3D, integrando recursos do MOODLE (Learning Management System), OpenSim (servidor de mundos virtuais) e SLOODLE (mashup do MOODLE com Second Life) — todas tecnologias de código aberto. A inclusão de experimentação remota visa associá-la aos materiais de ensino disponíveis no ambiente, proporcionando uma realidade científica com propósitos educacionais. Os laboratórios de experimentação remota são caracterizados pela realidade mediada por distância e podem proporcionar aos estudantes uma aproximação ao mundo real, aumentando a flexibilidade e o alcance colaborativo das atividades de ensino-aprendizagem.
+
+Papel/Role:
+Pesquisa e desenvolvimento do ambiente 3D, integração de laboratórios remotos, alinhamento pedagógico e design da experiência de aprendizagem imersiva.
+
+Publicações:
+• Integração de Mundos Virtuais e Experimentação Remota para Ensino
+  DOI: 10.22456/1679-1916.30793
+  URL: https://doi.org/10.22456/1679-1916.30793
+
+Links:
+• RExLab UFSC — Remote Experimentation Laboratory (https://rexlab.ufsc.br/)
+• Artigo completo (RENOTE/UFRGS) (https://seer.ufrgs.br/renote/article/view/30793)
+
+Apoiadores:
+• RExLab UFSC (https://rexlab.ufsc.br/)
+
+
+--- PROJETO 5: ALIMENTAR DIREITOS — WEBSITE DE LETRAMENTO DIGITAL EM SAÚDE ---
+
+Título: Alimentar Direitos — Website de Letramento Digital em Saúde
+
+Tags: Health Communication | Digital Literacy | EdTech | Public Health | Consumer Rights
+
+Resumo:
+Website educacional para letramento digital voltado ao combate à desinformação sobre alimentação e saúde nas mídias digitais, desenvolvido pelo Instituto NUTES/UFRJ em parceria com o Ministério Público do Rio de Janeiro.
+
+Quick Info:
+• Problema: Desinformação sobre alimentação e saúde se espalha rapidamente em mídias digitais, prejudicando decisões de consumidores e a saúde pública.
+• Processo: Pesquisa sobre padrões de desinformação → Mapeamento de mecanismos de difusão → Design de estratégias educacionais → Website interativo com materiais para letramento digital.
+• Solução: Plataforma web educacional com recursos para capacitar cidadãos a identificar, avaliar e combater desinformação em saúde e alimentação.
+• Resultado: Website desenvolvido pelo GEDES/NUTES/UFRJ em parceria com MPRJ • Materiais educacionais aplicados em programas de educação em saúde
+
+Desafio:
+Como enfrentar o crescimento da desinformação na sociedade brasileira atual? Uma das áreas que mais tem sofrido com as chamadas Fake News é a área de saúde. A desinformação sobre alimentação e saúde se espalha rapidamente pelas mídias digitais, impactando negativamente a tomada de decisões dos consumidores. É essencial que os cidadãos desenvolvam competências para lidar com as informações que acessam nas mídias digitais, especialmente quando a saúde pública está em jogo.
+
+Abordagem:
+Website desenvolvido pelo Instituto NUTES de Educação em Ciências e Saúde da UFRJ, através do Grupo de Estudos sobre Desigualdades na Educação e na Saúde (GEDES), sob coordenação do Prof. Dr. Alexandre Brasil Carvalho da Fonseca, em parceria com o Ministério Público do Rio de Janeiro. O projeto tem foco em produzir reflexão e estratégias relacionadas ao uso de mídias digitais, com recorte específico na (des)informação sobre alimentos e saúde, promovendo letramento digital e pensamento crítico sobre direitos do consumidor.
+
+Papel/Role:
+Pesquisa sobre desinformação em mídias digitais, mapeamento de padrões de disseminação de fake news em saúde, design de estratégias educacionais e desenvolvimento de materiais para letramento informacional.
+
+Time:
+• Prof. Dr. Alexandre Brasil Carvalho da Fonseca (Coordenador)
+• Grupo de Estudos sobre Desigualdades na Educação e na Saúde (GEDES)
+
+Apoiadores:
+• Instituto NUTES - UFRJ (https://www.nutes.ufrj.br/)
+• Universidade Federal do Rio de Janeiro (https://ufrj.br/)
+• GEDES — Grupo de Estudos sobre Desigualdades na Educação e na Saúde
+• Ministério Público do Rio de Janeiro (http://www.mprj.mp.br/)
+
+
+--- PROJETO 6: FAVELAS CONTRA O CORONAVÍRUS — SIMULADOR DE POLÍTICAS PÚBLICAS ---
+
+Título: Favelas Contra o Coronavírus — Simulador de Políticas Públicas
+
+Tags: Civic Tech | Data Science | Public Policy | Epidemiology | Social Impact | Systems Thinking
+
+Resumo:
+Plataforma de simulação epidemiológica que modela o impacto de diferentes políticas públicas no controle da COVID-19 em comunidades de favelas, permitindo visualizar cenários e apoiar decisões baseadas em evidências.
+
+Quick Info:
+• Problema: Favelas enfrentavam desafios únicos na pandemia (alta densidade, saneamento precário) sem ferramentas para avaliar impacto de políticas públicas específicas.
+• Processo: Modelagem epidemiológica SIR/SEIR adaptada → Dinâmica de Sistemas → Integração dados SUS + favelas → Simulação de 7 dimensões de políticas → Interface interativa.
+• Solução: Simulador que cruza variáveis epidemiológicas com dados demográficos das favelas, permitindo comparação de cenários de intervenção em tempo real.
+• Resultado: Cobertura em Forbes, Estadão, FAPESP • Usado por organizações sociais para advocacy baseado em evidências • Contribuiu para debate sobre equidade na pandemia
+
+Desafio:
+Movimento Favelas Contra o Coronavírus necessitava ferramenta para avaliar impacto de políticas públicas em comunidades vulneráveis — contexto de alta densidade, saneamento precário e acesso limitado a recursos de saúde.
+
+Abordagem:
+Plataforma baseada em Dinâmica de Sistemas e modelos SIR/SEIR, adaptada para alta densidade. Integra dados do SUS + demográficos de favelas para simular 7 dimensões de políticas (isolamento, hotelaria, higiene, renda básica, saneamento, UTIs, máscaras). Interface interativa permite comparação de cenários em tempo real.
+
+Papel/Role:
+Modelagem de sistemas complexos, definição de variáveis epidemiológicas, design estratégico de simulação, e comunicação de insights para gestores públicos e sociedade civil.
+
+Destaque de Mídia:
+O simulador ganhou ampla cobertura de mídia em veículos como Forbes, Estadão, Agência FAPESP, e foi destacado em universidades como UFSCar, UFES e Insper.
+
+Impacto:
+O projeto contribuiu para o debate público sobre equidade no combate à pandemia e evidenciou as vulnerabilidades estruturais das favelas brasileiras.
+
+Time:
+• Igor Czermainski de Oliveira
+• Vinícius Picanço
+• Ellen L. de C. Aquino
+• Rodrigo C. Bertamé Ribeiro
+• Cláudia Viviane Viegas
+• Gisele L. D. Chaves
+
+Publicações:
+• Publicação científica sobre o projeto
+  DOI: 10.1590/0034-761220200250x
+  URL: https://doi.org/10.1590/0034-761220200250x
+
+• Artigo técnico sobre o simulador
+  DOI: 10.3895/rts.v16n43.12216
+  URL: https://doi.org/10.3895/rts.v16n43.12216
+
+Links:
+• Favelas Contra o Coronavírus — Plataforma (https://www.favelascontraocoronavirus.com/)
+
+Mídia (Imprensa):
+• Simulador analisa efeitos de medidas contra Coronavírus nas favelas brasileiras (https://www.cbnsaocarlos.com.br/multimidia/podcasts/SOM,0,1,52495,Simulador+analisa+efeitos+de+medidas+contra+Coronav%C3%ADrus+nas+favelas+brasileiras.aspx)
+• Forbes: Sob o comando de Cássio Pantaleoni, SAS foca em parcerias e nos talentos internos (https://forbes.com.br/forbes-tech/2020/04/sob-o-comando-de-cassio-pantaleoni-sas-foca-em-parcerias-e-nos-talentos-internos/)
+• Estadão: Reduzir população em favelas e investir em higiene podem salvar até 26 mil do coronavírus em SP (https://www.estadao.com.br/saude/reduzir-populacao-em-favelas-e-investir-em-higiene-podem-salvar-ate-26-mil-do-coronavirus-em-sp/)
+
+Mídia (Artigos):
+• UFSCar: Pesquisadores desenvolvem simulador de políticas para combate à COVID-19 (https://www.ufscar.br/noticia?codigo=12598)
+• UFES: Pesquisadores desenvolvem simulador que avalia medidas contra COVID-19 em favelas (https://www.ufes.br/conteudo/pesquisadores-desenvolvem-simulador-que-avalia-medidas-contra-covid-19-em-favelas)
+• Agência FAPESP: Simulador estima efeitos de medidas de combate à COVID-19 em favelas (https://agencia.fapesp.br/simulador-estima-efeitos-de-medidas-de-combate-a-covid-19-em-favelas/33365)
+• Insper: Comunidade Insper supera desafios e ajuda a mitigar impactos da pandemia (https://www.insper.edu.br/pt/noticias/2020/12/comunidade-insper-supera-desafios-e-ajuda-a-mitigar-impactos-da-)
+
+Apoiadores:
+• Favelas Contra o Coronavírus (https://www.favelascontraocoronavirus.com/)
+• Data_labe (https://datalabe.org/)
+• Voz das Comunidades (https://www.vozdascomunidades.com.br/)
+
+
+--- PROJETO 7: DEMOCRACIA DIGITAL — PESQUISA, ADVOCACY E FERRAMENTAS DE TRANSPARÊNCIA ---
+
+Título: Democracia Digital — Pesquisa, Advocacy e Ferramentas de Transparência
+
+Tags: Civic Tech | Research | Advocacy | Digital Democracy | Disinformation
+
+Resumo:
+Coautora em projetos integrados de pesquisa aplicada, advocacy e desenvolvimento de ferramentas para combater desinformação e promover transparência digital nos processos eleitorais brasileiros.
+
+Quick Info:
+• Problema: Desinformação e bots ameaçam integridade eleitoral brasileira sem bases tecnológicas robustas para regulação, fiscalização e educação digital.
+• Processo: Pesquisa aplicada + Mapeamento sistêmico → White Paper com recomendações → PegaBot (ferramenta detecção bots) → Carta de Princípios #NãoValeTudo → Documentário.
+• Solução: Linha integrada de pesquisa, ferramentas cívicas e advocacy para transparência digital nos processos eleitorais — do diagnóstico à ação pública.
+• Resultado: White Paper adotado por instituições públicas • PegaBot com ampla adoção • Influenciou debate regulatório sobre desinformação eleitoral no Brasil
+
+Desafio:
+Debates eleitorais sem bases metodológicas robustas para entender e combater desinformação e automação maliciosa nas redes sociais.
+
+Abordagem:
+Linha integrada combinando: (1) Pesquisa aplicada com mapeamento sistêmico; (2) Ferramentas cívicas (PegaBot para detecção de bots); (3) Advocacy (carta #NãoValeTudo + documentário); (4) White Paper com recomendações para regulação.
+
+Papel/Role:
+Coautora de estudos e White Paper sobre desinformação eleitoral (2018). Colaboração metodológica e conceitual em PegaBot, #NãoValeTudo, documentário, e mapeamentos sistêmicos para diagnóstico institucional.
+
+Produtos:
+
+1. Pesquisa Democracia Digital
+   Geração dos dois principais produtos textuais:
+   • Desinformação nas Eleições: Desequilíbrios Acelerados pela Tecnologia
+   • White Paper: Recomendações Sistêmicas para Combater a Desinformação nas Eleições Brasileiras
+
+2. PegaBot
+   Ferramenta para estimar a probabilidade de um perfil social ser controlado por bot — projeto em parceria entre ITS-Rio e IT&E, com financiamento da União Europeia.
+
+3. #NãoValeTudo
+   Carta coletiva de princípios que debate os limites do uso de tecnologia nos processos eleitorais.
+
+4. Documentário Democracia Digital
+   Produção audiovisual para esclarecer riscos de desinformação em massa no contexto eleitoral.
+
+5. Mapeamentos Sistêmicos de Desinformação
+   Projetos sob medida para clientes institucionais que requerem diagnóstico complexo dos ecossistemas digitais.
+
+Links:
+• Download da Pesquisa Completa (https://drive.google.com/drive/folders/19yTQ9Q0HvsR5cWY9VaNo_wSt1W40iLWO)
+• PegaBot — Ferramenta (https://pegabot.com.br/)
+• White Paper — Recomendações ITSE (https://goo.gl/AV81mP)
+
+Apoiadores:
+• ITS Rio — Instituto de Tecnologia e Sociedade (https://itsrio.org/)
+• FGV Direito Rio (https://direitorio.fgv.br/)
+• InternetLab (https://internetlab.org.br/)
+• Democracia em Xeque / Avaaz (https://avaaz.org/)
+• Fundação Friedrich Ebert (FES Brasil) (https://www.fes.de/)
+• Coalizão Direitos na Rede (https://direitosnarede.org.br/)
+• TSE — Tribunal Superior Eleitoral (https://www.tse.jus.br/)
+• Instituto Update (https://www.institutoupdate.org.br/)
+• Transparência Brasil (https://www.transparencia.org.br/)
+• Code for All (https://codeforall.org/)
+• UnB — Núcleo de Política e Tecnologia (https://www.unb.br/)
+• USP — Núcleo de Política e Tecnologia (https://www.usp.br/)
+• LAPIN — Laboratório de Políticas Públicas e Internet
+
+
+================================================================================
+                                   SOBRE
+================================================================================
+
+Título da Página
+----------------
+Sobre
+
+Descrição
+---------
+Trajetória, formação e filosofia de trabalho
+
+Seções
+------
+• Bio
+• Foco
+• Idiomas
+• Certificações
+• Publicações
+• Apoiadores
+• Educação
+• Palestras & Apresentações
+• Publicações Científicas
+
+
+--- BIO CURTA ---
+
+Master em Science, Technology and Society (STS). 10+ anos em projetos globais, unindo visão científica e estratégia de mercado para transformar dores reais em soluções. Ponte entre necessidades do usuário, metas de negócio e viabilidade técnica, com experiência em Discovery, Delivery e Melhoria Contínua.
+
+
+--- BIO ESTENDIDA ---
+
+Antes de atuar em tecnologia, minha formação em design me ensinou a olhar para problemas sob a ótica da experiência — onde forma, função e significado se encontram. Essa base moldou a maneira como enxergo produtos: como sistemas vivos, que se transformam a partir das pessoas que os constroem e utilizam.
+
+Com mais de dez anos de trajetória, transitei entre pesquisa, qualidade e estratégia de produto, sempre impulsionada por uma curiosidade genuína em compreender contextos complexos e traduzi-los em soluções tangíveis. Ao longo dessa jornada, mergulhei profundamente na área de Qualidade, entendendo-a não apenas como validação técnica, mas como um campo de design de processos, confiança e aprendizado coletivo.
+
+Sou Master em Science, Technology and Society (STS), o que me permite conectar perspectivas humanas, tecnológicas e organizacionais. Essa visão crítica e sistêmica alimenta meu trabalho diário: combinar pensamento científico e visão estratégica de mercado para transformar dores reais em soluções escaláveis e sustentáveis.
+
+Hoje, atuo unindo estratégia de produto, qualidade e pesquisa aplicada, criando pontes entre necessidades do usuário, objetivos de negócio e viabilidade técnica. Minha abordagem é guiada por dados, colaboração e melhoria contínua — ajudando times a construir produtos que fazem sentido, geram impacto e evoluem junto com as pessoas.
+
+
+--- BIO PESSOAL (FORA DO TRABALHO) ---
+
+Título: Um pouco sobre a Ellen fora do trabalho
+
+Texto:
+Nasci em uma família grande — somos seis irmãos — e talvez venha daí meu gosto por convivência e movimento. Do sul do Brasil, fui fazendo do mundo o meu quintal: já morei em mais de dez lugares, em quatro países. Amo viajar, viver o novo e o curioso. Nerd assumida, tenho um olhar mais sociotécnico sobre as coisas e uma curiosidade que me move. Sou casada com uma mulher maravilhosa, tenho duas gatinhas, Melissa e Manuela, e dificilmente recuso uma boa conversa de mesa de bar — ainda mais se for com uma cervejinha no fim da tarde. Gosto de esportes coletivos, como futebol e pickleball, e guardo uma paixão pouco explorada por velejar.
+
+
+--- FOCO (SKILLS) ---
+
+• Product Strategy
+• Product Discovery
+• Product Management
+• Quality Strategy
+• User Research
+• Data-Informed Decisions
+• Systems Thinking
+• Process Design
+• Innovation Strategy
+• Roadmap Planning
+
+
+--- IDIOMAS ---
+
+• Portuguese (Native) / Português (Nativo)
+• Spanish (C1+) / Espanhol (C1+)
+• English (C1) / Inglês (C1)
+• French (A2 — in progress) / Francês (A2 — em progresso)
+
+
+--- CERTIFICAÇÕES ---
+
+1. Scrum Product Owner (PSPO/SPOPC)
+   Emissor: Scrum.org
+   Ano: 2022
+   URL: https://www.scrum.org/user/credentials
+
+2. SFPC / Product Foundations
+   Emissor: Scaled Agile
+   Ano: 2021
+   URL: https://www.scaledagile.com
+
+
+--- PUBLICAÇÕES (PRINCIPAIS) ---
+
+Nota: Esta seção contém publicações científicas principais. Lista completa disponível abaixo.
+
+1. Algoritmos como sistemas sociotécnicos
+   Tipo: Dissertação — UFSCar
+   Ano: 2020
+   URL: https://repositorio.ufscar.br
+
+2. Tecnologia, Política e Subjetividade
+   Tipo: CLACSO — pesquisa
+   Ano: 2021
+   URL: https://www.clacso.org
+
+
+--- PALESTRAS & APRESENTAÇÕES ---
+
+Título da Seção: Palestras & Apresentações
+
+Descrição:
+Palestras em eventos científicos, sociais e políticos sobre tecnologia, democracia, gênero e algoritmos.
+
+Estatísticas:
+• 15 palestras
+• 8 tipos de eventos
+• 5 anos ativos
+
+Call to Action: Ver todas
+
+
+Lista de Palestras:
+
+1. Beyond code, the political challenge of technology
+   Evento: Bots Brazil Conference 2022
+   Ano: 2022
+   Tipo: Conference
+   Tópicos: Technology & Politics | Digital Democracy | Bots
+   Localização: Brazil
+   Descrição: Discussão sobre os desafios políticos e sociais das tecnologias digitais além do código técnico.
+
+2. Diversity and Inclusion beyond code, how to reshape opacity
+   Evento: TDC 2021 (The Developer's Conference)
+   Ano: 2021
+   Tipo: Tech Conference
+   Tópicos: Diversity & Inclusion | Technology Ethics | Transparency
+   Localização: Brazil
+   Descrição: Reflexão sobre diversidade e inclusão no contexto tecnológico, indo além das práticas de código para questionar opacidade sistêmica.
+
+3. Bots in Elections: Catalysts of Disinformation
+   Evento: Bots Brasil Conference 2018
+   Ano: 2018
+   Tipo: Conference
+   Tópicos: Electoral Integrity | Disinformation | Bots
+   Localização: Brazil
+   Link: Cobertura MobileTime (https://www.mobiletime.com.br/noticias/03/08/2018/super-bots-experience-discute-robos-nas-eleicoes-e-lei-de-protecao-de-dados-pessoais/)
+   Descrição: Análise do papel dos bots como catalisadores de desinformação em processos eleitorais.
+
+4. Influence of robots and fake news on the 2018 Brazilian elections
+   Evento: 8th Latin American and Caribbean Conference on Social Sciences | First World Forum of Critical Thought
+   Ano: 2018
+   Tipo: Academic Conference
+   Tópicos: Electoral Integrity | Fake News | Social Media
+   Localização: Argentina
+   Link: Apresentação CLACSO (https://www.clacso.org.ar/conferencia2018/presentacion_ponencia.php?ponencia=2018320113741-8567-pi)
+   Descrição: Estudo aprofundado sobre a influência de robôs automatizados e notícias falsas nas eleições brasileiras de 2018.
+
+5. Automation in democracy: dangers and tensions that exist through interactive technologies
+   Evento: III Meeting of Digital Networks and Activist Cultures
+   Ano: 2018
+   Tipo: Academic Event
+   Tópicos: Digital Democracy | Automation | Activism
+   Localização: Brazil
+   Descrição: Discussão sobre os perigos e tensões da automação em contextos democráticos mediados por tecnologias interativas.
+
+6. Information, automation and post-truth: an in-depth analysis of disinformation in the Brazilian electoral process of 2018
+   Evento: III Meeting of Digital Networks and Activist Cultures
+   Ano: 2018
+   Tipo: Academic Event
+   Tópicos: Post-Truth | Disinformation | Electoral Integrity
+   Localização: Brazil
+   Descrição: Análise aprofundada da desinformação no processo eleitoral brasileiro de 2018, explorando a relação entre automação e pós-verdade.
+
+7. Anarchist cyberfeminism: intersections between technology, gender and anarchism
+   Evento: 2nd International Congress of Researchers on Anarchism(s)
+   Ano: 2018
+   Tipo: Academic Congress
+   Tópicos: Cyberfeminism | Gender & Technology | Political Philosophy
+   Localização: Uruguay
+   Descrição: Exploração das intersecções entre tecnologia, gênero e anarquismo sob a perspectiva do ciberfeminismo anarquista.
+
+8. The weight of the internet in voting
+   Evento: Festival Path
+   Ano: 2018
+   Tipo: Festival/Event
+   Tópicos: Digital Democracy | Electoral Behavior | Internet & Politics
+   Localização: Brazil
+   Descrição: Discussão sobre o peso e influência da internet no comportamento eleitoral e processos democráticos.
+
+9. Gender, Technology and Innovation
+   Evento: Free Market Workshop
+   Ano: 2018
+   Tipo: Workshop
+   Tópicos: Gender & Technology | Innovation | Diversity
+   Localização: Brazil
+   Descrição: Workshop sobre as relações entre gênero, tecnologia e processos de inovação.
+
+10. Technology and Politics
+    Evento: Non-Party Approaches and Political Dialogues
+    Ano: 2018
+    Tipo: Political Event
+    Tópicos: Technology & Politics | Political Philosophy | Democracy
+    Localização: Brazil
+    Descrição: Diálogo sobre as interações entre tecnologia e política em contextos não-partidários.
+
+11. The algorithm from the perspective of Feenberg's critical theory: The code as a sociotechnical object
+    Evento: 8th National Symposium on Science, Technology and Society
+    Tipo: Academic Symposium
+    Tópicos: Critical Theory | Philosophy of Technology | STS
+    Localização: Brazil
+    Descrição: Análise de algoritmos através da teoria crítica de Andrew Feenberg, explorando o código como objeto sociotécnico.
+
+12. Algorithms and Society: Disturbances of corporeality in the man-machine relationship
+    Evento: Instituto Djanira
+    Tipo: Institute Talk
+    Tópicos: Algorithms & Society | Philosophy of Technology | Corporeality
+    Localização: Brazil
+    Link: Vídeo da palestra (https://www.youtube.com/watch?v=zKhRn54wAIQ)
+    Descrição: Reflexão sobre perturbações da corporalidade na relação homem-máquina mediada por algoritmos.
+
+13. Webinar - Analysis of social networks: challenges and perspectives
+    Evento: EGC-UFSC (Engineering and Knowledge Management)
+    Tipo: Webinar
+    Tópicos: Social Network Analysis | Research Methods | Big Data
+    Localização: Brazil (Online)
+    Descrição: Webinar sobre desafios e perspectivas na análise de redes sociais digitais.
+
+14. Static and dynamic systems
+    Evento: Dissertation Seminars – UFSCar
+    Tipo: Academic Seminar
+    Tópicos: Systems Thinking | Systems Dynamics | Complexity
+    Localização: Brazil
+    Descrição: Apresentação sobre sistemas estáticos e dinâmicos no contexto de seminários de dissertação.
+
+15. Intelligence, Nature and Culture
+    Evento: VI Meeting of the GP in Research CTS – Unicamp
+    Tipo: Research Meeting
+    Tópicos: STS | Philosophy of Technology | Intelligence
+    Localização: Brazil
+    Descrição: Discussão sobre as relações entre inteligência, natureza e cultura em estudos de Ciência, Tecnologia e Sociedade.
+
+
+--- PUBLICAÇÕES CIENTÍFICAS (COMPLETAS) ---
+
+Título da Seção: Publicações Científicas
+
+Descrição:
+Artigos, papers e pesquisas publicados em periódicos e conferências sobre tecnologia, sociedade e educação.
+
+Estatísticas:
+• 13 publicações
+• 10 com link
+• 5 anos
+
+
+ARTIGOS EM PERIÓDICOS:
+
+1. O algoritmo computacional como objeto sociotécnico: encontros da complexidade algorítmica
+   Autores: AQUINO, E.L.C.
+   Tópicos: Algorithms | Critical Theory | STS
+   Resumo: Análise do algoritmo computacional sob a perspectiva de objeto sociotécnico, explorando a complexidade algorítmica.
+
+2. A influência dos algoritmos inteligentes no processo de aprendizagem autônoma
+   Autores: LIMA, L. P.; AQUINO, E. L. C.; MILL, D.
+   Periódico: Eptic On-Line (UFS)
+   Ano: 2020
+   Volume: 22
+   Páginas: 128-147
+   Tópicos: EdTech | AI | Learning
+   Resumo: Investigação sobre como algoritmos inteligentes influenciam processos de aprendizagem autônoma.
+
+3. Pandemic responses in vulnerable communities: a simulation-oriented approach
+   Autores: RODRIGUES, V. P.; OLIVEIRA, I. C.; CHAVES, G. L. D.; AQUINO, E. L. C.; VIEGAS, C. V.
+   Periódico: RAP. Revista Brasileira de Administração Pública
+   Ano: 2020
+   Volume: 54
+   Páginas: 1-17
+   DOI: 10.1590/0034-761220200250x
+   URL: https://doi.org/10.1590/0034-761220200250x
+   Tópicos: Public Health | Systems Dynamics | COVID-19
+   Resumo: Abordagem baseada em simulação para respostas à pandemia em comunidades vulneráveis.
+
+4. Alternativas para salvar vidas em favelas durante a pandemia: a contribuição da dinâmica de sistemas
+   Autores: CHAVES, G. L. D.; OLIVEIRA, I. C.; RODRIGUES, V. P.; VIEGAS, C. V.; AQUINO, E. L. C.
+   Periódico: Revista Tecnologia e Sociedade (Online)
+   Ano: 2020
+   Volume: 16
+   Páginas: 43-51
+   DOI: 10.3895/rts.v16n43.12216
+   URL: https://doi.org/10.3895/rts.v16n43.12216
+   Tópicos: Public Health | Systems Dynamics | Social Impact
+   Resumo: Contribuição da dinâmica de sistemas para desenvolver alternativas que salvem vidas em favelas durante a pandemia de COVID-19.
+
+5. Desenvolvimento de aplicação para interfaceamento com experimentos remotos por smartphones
+   Autores: ROCHADEL, W.; AQUINO, E. L. C.; SILVA, J. B.
+   Periódico: RENOTE. Revista Novas Tecnologias na Educação
+   Ano: 2012
+   Volume: 10
+   Páginas: 1-10
+   Tópicos: EdTech | Remote Labs | Mobile
+   Resumo: Desenvolvimento de aplicação mobile para acesso a experimentos remotos, ampliando possibilidades de aprendizagem.
+
+
+ARTIGOS EM CONFERÊNCIAS:
+
+6. O algoritmo sob olhar da teoria crítica de Feenberg: O código como um objeto sócio-técnico
+   Autores: AQUINO, E. L. C.; SOUSA, C. M.
+   Evento: VIII Simpósio Nacional de Ciência, Tecnologia e Sociedade - VIII ESOCITE.BR
+   Ano: 2019
+   Localização: Belo Horizonte, Brasil
+   Tópicos: Critical Theory | Philosophy of Technology | STS
+   Resumo: Análise de algoritmos através da teoria crítica de Andrew Feenberg, explorando o código como objeto sociotécnico.
+
+7. Ciberfeminismo anarquista: Intersecções entre tecnologia, gênero e anarquismo
+   Autores: AQUINO, E. L. C.
+   Evento: II Congreso Internacional de Investigadorxs sobre Anarquismo(s)
+   Ano: 2019
+   Localização: Montevideo, Uruguay
+   Tópicos: Cyberfeminism | Gender & Technology | Political Philosophy
+   Resumo: Exploração das intersecções entre tecnologia, gênero e anarquismo sob a perspectiva do ciberfeminismo anarquista.
+
+8. Recursos open source aplicados ao ensino-aprendizagem integrando Mundo Virtual 3D e Experimentação Remota
+   Autores: JUAREZ; ROCHADEL; AQUINO, E. L. C.
+   Evento: 10ª Semana de Ensino, Pesquisa e Extensão da UFSC
+   Ano: 2011
+   Localização: Florianópolis, Brasil
+   Tópicos: EdTech | 3D Virtual Worlds | Remote Labs
+   Resumo: Integração de mundos virtuais 3D e experimentação remota utilizando recursos open source para ensino-aprendizagem.
+
+
+PROJETOS DE PESQUISA & WHITE PAPERS:
+
+9. Disinformation in Elections: Technology Accelerated Imbalances 2018
+   Autores: VASCONCELOS, M.; AQUINO, E. L. C.; RONDON, T.; MORAES JUNIOR, C. A.; KOGAN, A.
+   Tipo: Research Project
+   Ano: 2018
+   Tópicos: Electoral Integrity | Disinformation | Technology & Politics
+   Resumo: Projeto de pesquisa sobre desinformação em eleições e desequilíbrios acelerados pela tecnologia no contexto das eleições brasileiras de 2018.
+
+10. Systemic Recommendations to Combat Misinformation in Brazil's 2018 Elections
+    Autores: VASCONCELOS, M.; KOGAN, A.; RONDON, T.; AQUINO, E. L. C.; MORAES JUNIOR, C. A.
+    Tipo: White Paper
+    Ano: 2018
+    Tópicos: Electoral Integrity | Misinformation | Policy Recommendations
+    Resumo: Recomendações sistêmicas para combater a desinformação nas eleições brasileiras de 2018, baseadas em análise aprofundada do ecossistema informacional.
+
+
+--- ESTATÍSTICAS (QUICK INFO) ---
+
+• 10+ Anos de experiência
+• 4 Países (Brasil, Estados Unidos, Portugal, Espanha)
+• 15+ Projetos globais
+• 2 Certificações
+
+
+================================================================================
+                                 CONTATO
+================================================================================
+
+Título da Página
+----------------
+Contato
+
+Descrição
+---------
+Vamos conversar sobre produto, estratégia ou qualidade.
+
+Chamada de Ação Principal
+--------------------------
+Vamos conversar?
+
+
+--- INFORMAÇÕES DE CONTATO ---
+
+Email:
+ellen.lcaquino@gmail.com
+
+Telefone:
+• Canadá: +1 (438) 465-4581
+• Brasil: +55 (19) 9824-80184
+
+LinkedIn:
+https://www.linkedin.com/in/ellencarvalho/
+
+Baixar CV:
+https://drive.google.com/file/d/13L7yKxoGDk2sVjwjamJK-x_YW8ML-SJs/view?usp=sharing
+
+
+--- INTERESSES DE COLABORAÇÃO ---
+
+• Estratégia de produto
+• Consultoria em qualidade
+• Workshops e treinamentos
+• Palestras e eventos
+
+
+================================================================================
+                        SERVIÇOS & ESPECIALIDADES
+================================================================================
+
+Título da Seção
+---------------
+Serviços & Especialidades
+
+
+--- SERVIÇO 1: ESTRATÉGIA TECNOLÓGICA ---
+
+Título: Estratégia Tecnológica
+
+Descrição:
+Consultoria estratégica para alinhar iniciativas tecnológicas com objetivos de negócio, definindo roadmaps tecnológicos e governança de inovação
+
+
+--- SERVIÇO 2: PROCESSO & PRODUTO ---
+
+Título: Processo & Produto
+
+Descrição:
+Design e otimização de processos de desenvolvimento de software, gestão de ciclo de vida de produto e metodologias de melhoria contínua
+
+
+--- SERVIÇO 3: GARANTIA DE QUALIDADE ---
+
+Título: Garantia de Qualidade
+
+Descrição:
+Implementação de frameworks abrangentes de qualidade, estratégias de teste e governança de qualidade para garantir excelência e confiabilidade de software
+
+
+--- SERVIÇO 4: DESENVOLVIMENTO DE SISTEMAS COMPLEXOS ---
+
+Título: Desenvolvimento de Sistemas Complexos
+
+Descrição:
+Arquitetura e desenvolvimento de sistemas escaláveis e de alto desempenho com foco em resiliência, segurança e tecnologias de ponta
+
+
+================================================================================
+              COMO CONECTO PRODUTO, QUALIDADE E ESTRATÉGIA
+================================================================================
+
+Título da Seção
+---------------
+Como conecto produto, qualidade e estratégia
+
+
+--- PILAR 1: PENSAMENTO SISTÊMICO ---
+
+Título: Pensamento Sistêmico
+
+Descrição:
+Integro perspectivas sociais, técnicas e de negócio para compreender a complexidade e desenhar soluções sustentáveis.
+
+
+--- PILAR 2: INOVAÇÃO COMO ENTREGA E ESTRATÉGIA ---
+
+Título: Inovação como Entrega e Estratégia
+
+Descrição:
+Redefino a inovação como motor estratégico de crescimento, incorporando melhoria contínua e decisões orientadas por dados em todas as etapas do desenvolvimento de produto.
+
+
+--- PILAR 3: PESQUISA NA PRÁTICA ---
+
+Título: Pesquisa na Prática
+
+Descrição:
+Combino profundidade analítica com experimentação prática, conectando pesquisa e execução.
+
+
+--- PILAR 4: IMPACTO COLABORATIVO ---
+
+Título: Impacto Colaborativo
+
+Descrição:
+Construo parcerias que alinham necessidades do usuário, aprendizado de equipe e valor de negócio — gerando impacto mensurável por meio da colaboração.
+
+
+================================================================================
+                            DEPOIMENTOS
+================================================================================
+
+1. Amanda Lacerda
+   Cargo: CEO | Quality Advisor | Quality Governance
+   Empresa: QualityMap
+   Ano: 2024
+   
+   Depoimento:
+   "Ellen começou na QualityMap trazendo a visão de que o trabalho é um grande laboratório. Essa mentalidade transformou nossa forma de construir soluções e pensar qualidade. É gratificante trabalhar com alguém que une estratégia, entrega e propósito."
+
+
+2. Rosselyn
+   Cargo: Quality Analyst
+   Empresa: QualityMap
+   Ano: 2024
+   
+   Depoimento:
+   "Ellen é uma profissional completa, sempre em busca de inovação. Tenho a sorte de tê-la como mentora e, a cada semana, me impressiono com a profundidade do seu conhecimento e com a generosidade em compartilhar ideias inovadoras baseadas em sua experiência. Sou muito grata por todo o aprendizado que adquiri com ela."
+
+
+3. Guilherme Cury Rovai
+   Cargo: Product Designer
+   Empresa: Neon
+   Ano: 2019
+   
+   Depoimento:
+   "Ellen é uma profissional extremamente questionadora e inteligente, capaz de compreender o produto e o cliente em profundidade. Traz um olhar analítico e criativo que gera impacto real nos projetos."
+
+
+4. Dr. Cidoval Morais
+   Cargo: Professor de Sociologia da Ciência
+   Instituição: UFSCar
+   Ano: 2020
+   
+   Depoimento:
+   "Ellen é uma profissional colaborativa e comprometida com uma visão crítica e democrática da tecnologia. Destaco sua capacidade de problematizar algoritmos como objetos sociotécnicos e traduzir complexidade em soluções significativas."
+
+
+5. Karina Rossin Ayrosa
+   Cargo: Head of Customer Experience
+   Empresa: Neon
+   Ano: 2020
+   
+   Depoimento:
+   "Ellen sempre foi extremamente dedicada e criteriosa. Seu trabalho consistente trouxe resultados expressivos e melhorias tangíveis nos projetos em que atuamos juntas."
+
+
+6. Márcio Vasconcelos Pinto
+   Cargo: Diretor
+   Instituição: Instituto de Tecnologia e Equidade
+   Ano: 2020
+   
+   Depoimento:
+   "Trabalho com Ellen desde 2018 e recomendo fortemente sua dedicação e versatilidade. Sempre supera expectativas, entregando com profissionalismo e visão sistêmica."
+
+
+7. Henrique Cocev
+   Cargo: CX Consultant
+   Empresa: Neon | The Global Fintech
+   Ano: 2019
+   
+   Depoimento:
+   "Desde o primeiro contato, Ellen demonstrou competência e comprometimento excepcionais. Sua capacidade de adaptação e fluidez entre áreas a tornam uma profissional rara."
+
+
+================================================================================
+                            TEXTOS COMUNS
+================================================================================
+
+Carregando...: Carregando...
+Ler mais: Ler mais
+Ver projeto: Ver projeto
+Fechar: Fechar
+Voltar para portfolio: Voltar para portfolio
+Projeto não encontrado: Projeto não encontrado
+
+
+================================================================================
+                        ESTRUTURA DE CASOS DE ESTUDO
+================================================================================
+
+Seções Padrão:
+• Contexto
+• Desafio
+• Abordagem
+• Resultados
+
+
+================================================================================
+                              NAVEGAÇÃO
+================================================================================
+
+Menu Principal (Português):
+• Home
+• Experiência
+• Portfolio
+• Palestras
+• Publicações
+• Sobre
+• Contato
+
+Menu Principal (Inglês):
+• Home
+• Experience
+• Portfolio
+• Talks
+• Publications
+• About
+• Contact
+
+Menu Principal (Espanhol):
+• Inicio
+• Experiencia
+• Portfolio
+• Charlas
+• Publicaciones
+• Sobre mí
+• Contacto
+
+
+================================================================================
+                            FIM DO DOCUMENTO
+================================================================================
+
+Última atualização: Maio 2026
+Versão: 1.0 - Compilação completa de todos os textos do site
