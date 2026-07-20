@@ -109,7 +109,7 @@ export function Home() {
       {/* Mini Bio */}
       <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5 overflow-hidden">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-[300px_1fr] gap-12 lg:gap-16 items-start">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             {/* Left: signature — name + overlapping photo */}
             <motion.div
               initial={{ opacity: 0, y: 20 }}
