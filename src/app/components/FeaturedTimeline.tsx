@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { ArrowUpRight, Compass, LineChart, Users } from "lucide-react";
+import { ArrowUpRight, Compass, LineChart, Users, Building2 } from "lucide-react";
 import { Button } from "./ui/button";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { useLanguage } from "../contexts/LanguageContext";
@@ -9,7 +9,7 @@ import type { data } from "../data/ellen";
 
 type Project = (typeof data.portfolio)[number];
 
-const ICONS = [Compass, LineChart, Users];
+const ICONS = [Compass, LineChart, Users, Building2];
 
 interface FeaturedTimelineProps {
   projects: Project[];
