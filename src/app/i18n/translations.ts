@@ -21,7 +21,7 @@ export const translations = {
       bioSubheading: 'Um pouco sobre mim',
       bioParagraphs: [
         'Produto, pessoas e inovação sempre se cruzaram no meu caminho. Há mais de 10 anos transito entre ambientes de inovação, empresas de tecnologia e terceiro setor. Sou mestre em Ciência, Tecnologia e Sociedade, e uso essa lente pra resolver problemas reais.',
-        'Pesquiso, testo, entrego, melhoro — e repito. Qualidade, pra mim, não é checklist: é a forma como construo confiança e aprendizado coletivo dentro de um time. Trabalho com dados, mas decido com empatia.',
+        'Comecei olhando pra telas e acabei olhando pra times. Foi assim que entendi qualidade de outro jeito: não como uma etapa a marcar, mas como a confiança que um grupo constrói pra trabalhar bem junto. Uso dados pra enxergar padrões — e uso as pessoas pra entender o que os dados não mostram.',
         'Hoje moro em Lisboa e ajudo scale-ups e empresas de tecnologia na Europa e no Brasil a transformar complexidade em produto que faz sentido.'
       ],
       experienceTitle: 'Experiência',
@@ -190,7 +190,7 @@ export const translations = {
       bioSubheading: 'A bit about me',
       bioParagraphs: [
         "Product, people and innovation have always crossed paths in my career. For 10+ years I've moved between innovation hubs, tech companies and the social sector. I hold a Master's in Science, Technology and Society, and I use that lens to solve real problems.",
-        'Research, test, ship, improve — then repeat. Quality, to me, isn\'t a checklist. It\'s how I build trust and collective learning inside a team. I work with data, but I decide with empathy.',
+        "I started out looking at screens and ended up looking at teams. That's how I came to understand quality differently: not a box to check, but the trust a group builds to work well together. I use data to spot patterns — and people to understand what the data doesn't show.",
         'Based in Lisbon today, I help scale-ups and enterprise tech teams across Europe and Brazil turn complexity into products that make sense.'
       ],
       experienceTitle: 'Experience',
@@ -359,7 +359,7 @@ export const translations = {
       bioSubheading: 'Un poco sobre mí',
       bioParagraphs: [
         'Producto, personas e innovación siempre se cruzaron en mi camino. Desde hace más de 10 años me muevo entre entornos de innovación, empresas de tecnología y el tercer sector. Soy máster en Ciencia, Tecnología y Sociedad, y uso esa mirada para resolver problemas reales.',
-        'Investigo, pruebo, entrego, mejoro — y repito. La calidad, para mí, no es una checklist: es cómo construyo confianza y aprendizaje colectivo dentro de un equipo. Trabajo con datos, pero decido con empatía.',
+        'Empecé mirando pantallas y terminé mirando equipos. Así entendí la calidad de otra manera: no como una casilla que se marca, sino como la confianza que un grupo construye para trabajar bien junto. Uso los datos para detectar patrones — y a las personas para entender lo que los datos no muestran.',
         'Hoy vivo en Lisboa y ayudo a scale-ups y equipos de tecnología enterprise en Europa y Brasil a transformar la complejidad en productos que tienen sentido.'
       ],
       experienceTitle: 'Experiencia',
