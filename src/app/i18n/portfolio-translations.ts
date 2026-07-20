@@ -420,6 +420,73 @@ export const portfolioTranslations: ProjectTranslations = {
       en: "Co-author of studies and White Paper on electoral misinformation (2018). Methodological and conceptual collaboration on PegaBot, #NãoValeTudo, documentary, and systemic mapping for institutional diagnosis.",
       es: "Coautora de estudios y White Paper sobre desinformación electoral (2018). Colaboración metodológica y conceptual en PegaBot, #NãoValeTudo, documental, y mapeos sistémicos para diagnóstico institucional."
     }
+  },
+
+  'colegio-kingdom': {
+    summary: {
+      pt: "Site institucional para uma escola cristã que, até então, se comunicava com as famílias apenas por Instagram e WhatsApp — criado para centralizar informações em um canal oficial, acolhedor e em mais de um idioma.",
+      en: "Institutional website for a Christian school that, until then, communicated with families only through Instagram and WhatsApp — built to centralize information in an official, welcoming, multilingual channel.",
+      es: "Sitio institucional para una escuela cristiana que, hasta entonces, se comunicaba con las familias solo por Instagram y WhatsApp — creado para centralizar la información en un canal oficial, acogedor y en más de un idioma."
+    },
+    quickInfo: {
+      problem: {
+        pt: "A comunicação da escola com as famílias acontecia de forma dispersa, apenas por Instagram e WhatsApp, sem um canal oficial que apresentasse a instituição de forma completa.",
+        en: "The school's communication with families happened in a scattered way, only through Instagram and WhatsApp, with no official channel presenting the institution in full.",
+        es: "La comunicación de la escuela con las familias ocurría de forma dispersa, solo por Instagram y WhatsApp, sin un canal oficial que presentara la institución de forma completa."
+      },
+      process: {
+        pt: "Levantamento dos pilares institucionais → Arquitetura de informação → Identidade visual lúdica e acolhedora → Desenvolvimento com suporte a múltiplos idiomas → Testes de acesso.",
+        en: "Mapping institutional pillars → Information architecture → Playful, welcoming visual identity → Development with multilingual support → Access testing.",
+        es: "Relevamiento de los pilares institucionales → Arquitectura de información → Identidad visual lúdica y acogedora → Desarrollo con soporte multilingüe → Pruebas de acceso."
+      },
+      solution: {
+        pt: "Site institucional completo, com navegação clara por temas centrais, alternância de idioma e identidade visual que reforça os pilares da escola para famílias brasileiras e estrangeiras.",
+        en: "A complete institutional website, with clear navigation by core topics, language switching, and a visual identity that reinforces the school's pillars for both Brazilian and international families.",
+        es: "Sitio institucional completo, con navegación clara por temas centrales, cambio de idioma e identidad visual que refuerza los pilares de la escuela para familias brasileñas y extranjeras."
+      }
+    },
+    challenge: {
+      pt: "Antes do site, a comunicação do Colégio Kingdom acontecia inteiramente por redes sociais e WhatsApp — canais informais, sem estrutura para apresentar a proposta pedagógica, os princípios cristãos e o Sistema Etapa da escola para famílias que buscavam mais informação antes de matricular seus filhos, incluindo famílias que não falam português.",
+      en: "Before the website, Colégio Kingdom's communication happened entirely through social media and WhatsApp — informal channels, with no structure to present the school's pedagogical approach, Christian principles, and Sistema Etapa methodology to families looking for more information before enrolling their children, including families who don't speak Portuguese.",
+      es: "Antes del sitio, la comunicación del Colégio Kingdom ocurría enteramente por redes sociales y WhatsApp — canales informales, sin estructura para presentar la propuesta pedagógica, los principios cristianos y el Sistema Etapa de la escuela a familias que buscaban más información antes de matricular a sus hijos, incluyendo familias que no hablan portugués."
+    },
+    approach: {
+      pt: "Desenvolvimento de um site institucional do zero, em três frentes: (1) arquitetura de informação organizada pelos temas centrais da escola — Quem somos, Princípios, Ensino, Sistema Etapa; (2) suporte multilíngue para atender famílias estrangeiras; (3) identidade visual lúdica e acolhedora, com cores vivas e elementos gráficos que comunicam os pilares institucionais (Autogoverno, Semear & Colher, Soberania, Individualidade) já na primeira dobra.",
+      en: "End-to-end development of an institutional website, on three fronts: (1) information architecture organized around the school's core topics — Who we are, Principles, Teaching, Sistema Etapa; (2) multilingual support to serve international families; (3) a playful, welcoming visual identity, with vivid colors and graphic elements that communicate the school's institutional pillars (Self-Governance, Sow & Reap, Sovereignty, Individuality) right in the first fold.",
+      es: "Desarrollo de un sitio institucional desde cero, en tres frentes: (1) arquitectura de información organizada por los temas centrales de la escuela — Quiénes somos, Principios, Enseñanza, Sistema Etapa; (2) soporte multilingüe para atender a familias extranjeras; (3) identidad visual lúdica y acogedora, con colores vivos y elementos gráficos que comunican los pilares institucionales (Autogobierno, Sembrar y Cosechar, Soberanía, Individualidad) ya en el primer pliegue."
+    },
+    role: {
+      pt: "Responsável pelo desenvolvimento end-to-end do site: estrutura de conteúdo, design de interface e implementação, com foco em garantir acesso humanizado e fiel à identidade da escola para famílias em diferentes idiomas.",
+      en: "Responsible for the end-to-end development of the website: content structure, interface design, and implementation, focused on humanized access true to the school's identity for families in different languages.",
+      es: "Responsable del desarrollo end-to-end del sitio: estructura de contenido, diseño de interfaz e implementación, con foco en garantizar un acceso humanizado y fiel a la identidad de la escuela para familias en distintos idiomas."
+    },
+    keyFeatures: [
+      {
+        pt: "Alternância de idioma para atender famílias brasileiras e estrangeiras",
+        en: "Language switching to serve Brazilian and international families",
+        es: "Cambio de idioma para atender a familias brasileñas y extranjeras"
+      },
+      {
+        pt: "Navegação organizada pelos pilares institucionais da escola",
+        en: "Navigation organized around the school's institutional pillars",
+        es: "Navegación organizada por los pilares institucionales de la escuela"
+      },
+      {
+        pt: "Identidade visual lúdica e acolhedora, alinhada à proposta cristã",
+        en: "Playful, welcoming visual identity, aligned with the Christian approach",
+        es: "Identidad visual lúdica y acogedora, alineada con la propuesta cristiana"
+      },
+      {
+        pt: "Substituição da comunicação informal (Instagram/WhatsApp) por um canal oficial",
+        en: "Replacing informal communication (Instagram/WhatsApp) with an official channel",
+        es: "Sustitución de la comunicación informal (Instagram/WhatsApp) por un canal oficial"
+      },
+      {
+        pt: "Contato direto integrado ao WhatsApp",
+        en: "Direct contact integrated with WhatsApp",
+        es: "Contacto directo integrado con WhatsApp"
+      }
+    ]
   }
 };
 
