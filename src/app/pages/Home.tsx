@@ -108,18 +108,22 @@ export function Home() {
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
           {/* Signature: name + overlapping photo */}
           <div className="relative text-center select-none mb-16 md:mb-20">
-            <BlurText
-              text="ELLEN"
-              animateBy="letters"
-              delay={0.05}
-              className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
-            />
-            <BlurText
-              text="AQUINO"
-              animateBy="letters"
-              delay={0.05}
-              className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
-            />
+            <div>
+              <BlurText
+                text="ELLEN"
+                animateBy="letters"
+                delay={0.05}
+                className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
+              />
+            </div>
+            <div>
+              <BlurText
+                text="AQUINO"
+                animateBy="letters"
+                delay={0.05}
+                className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
+              />
+            </div>
 
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
               <div className="w-[90px] h-[150px] sm:w-[110px] sm:h-[185px] md:w-[130px] md:h-[218px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">

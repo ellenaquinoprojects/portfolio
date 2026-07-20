@@ -14,6 +14,7 @@ import democraciaDigitalResearch from 'figma:asset/3236884e3e2e325be065204070ca7
 import democraciaDigitalHero from 'figma:asset/292ee67d0fa7e6db81911bc8071331d986df6d08.png';
 import ggHubPlatform from 'figma:asset/a788ef0df501528bfa1cd5f1a7750b7b62d8e574.png';
 import ggHubPrototypeExamples from 'figma:asset/9f6a24d930cf025ea96824099a8710af981297d3.png';
+import colegioKingdomHero from 'figma:asset/colegio-kingdom-hero.png';
 
 import profilePhoto from 'figma:asset/45b46a89cfd6db6d5884b1dae4742ee116771cea.png';
 import bookAlgorithmsSociety from 'figma:asset/eae7a5785976c5cdab007673569f692e2e336839.png';
@@ -550,6 +551,31 @@ export const data = {
         { name: "LAPIN — Laboratório de Políticas Públicas e Internet", url: "", logo: "" }
       ],
       thumb: democraciaDigitalHero
+    },
+    {
+      slug: "colegio-kingdom",
+      title: "Colégio Kingdom — Site Institucional Multilíngue",
+      tags: ["Web Design", "Front-end Development", "Content Strategy", "Multilíngue"],
+      summary: "Site institucional para uma escola cristã que, até então, se comunicava com as famílias apenas por Instagram e WhatsApp — criado para centralizar informações em um canal oficial, acolhedor e em mais de um idioma.",
+      quickInfo: {
+        problem: "A comunicação da escola com as famílias acontecia de forma dispersa, apenas por Instagram e WhatsApp, sem um canal oficial que apresentasse a instituição de forma completa.",
+        process: "Levantamento dos pilares institucionais → Arquitetura de informação → Identidade visual lúdica e acolhedora → Desenvolvimento com suporte a múltiplos idiomas → Testes de acesso.",
+        solution: "Site institucional completo, com navegação clara por temas centrais, alternância de idioma e identidade visual que reforça os pilares da escola para famílias brasileiras e estrangeiras."
+      },
+      challenge: "Antes do site, a comunicação do Colégio Kingdom acontecia inteiramente por redes sociais e WhatsApp — canais informais, sem estrutura para apresentar a proposta pedagógica, os princípios cristãos e o Sistema Etapa da escola para famílias que buscavam mais informação antes de matricular seus filhos, incluindo famílias que não falam português.",
+      approach: "Desenvolvimento de um site institucional do zero, em três frentes: (1) arquitetura de informação organizada pelos temas centrais da escola — Quem somos, Princípios, Ensino, Sistema Etapa; (2) suporte multilíngue para atender famílias estrangeiras; (3) identidade visual lúdica e acolhedora, com cores vivas e elementos gráficos que comunicam os pilares institucionais (Autogoverno, Semear & Colher, Soberania, Individualidade) já na primeira dobra.",
+      role: "Responsável pelo desenvolvimento end-to-end do site: estrutura de conteúdo, design de interface e implementação, com foco em garantir acesso humanizado e fiel à identidade da escola para famílias em diferentes idiomas.",
+      keyFeatures: [
+        "Alternância de idioma para atender famílias brasileiras e estrangeiras",
+        "Navegação organizada pelos pilares institucionais da escola",
+        "Identidade visual lúdica e acolhedora, alinhada à proposta cristã",
+        "Substituição da comunicação informal (Instagram/WhatsApp) por um canal oficial",
+        "Contato direto integrado ao WhatsApp"
+      ],
+      links: [],
+      media: [],
+      supporters: [],
+      thumb: colegioKingdomHero
     }
   ],
   
