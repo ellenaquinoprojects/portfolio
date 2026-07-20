@@ -21,7 +21,7 @@ export const translations = {
       bioSubheading: 'Um pouco sobre mim',
       bioParagraphs: [
         'Produto, pessoas e inovação sempre se cruzaram no meu caminho. Há mais de 10 anos transito entre ambientes de inovação, empresas de tecnologia e terceiro setor. Sou mestre em Ciência, Tecnologia e Sociedade, e uso essa lente pra resolver problemas reais.',
-        'Uma vez fui chamada pra montar, do zero, uma área de Qualidade que ainda não existia. Antes disso, eu ouvia cliente — entendia o que doía no dia a dia de quem usava o produto. As duas coisas juntas me ensinaram que qualidade não é papelada: é a confiança que o time carrega depois que eu saio da sala.',
+        'Do design pra tecnologia, da pesquisa pra produto, da criatividade pra resolução de problemas sistêmicos, da liderança estratégica à construção de arquitetura de soluções.',
         'Hoje moro em Lisboa e ajudo scale-ups e empresas de tecnologia na Europa e no Brasil a transformar complexidade em produto que faz sentido.'
       ],
       experienceTitle: 'Experiência',
@@ -190,7 +190,7 @@ export const translations = {
       bioSubheading: 'A bit about me',
       bioParagraphs: [
         "Product, people and innovation have always crossed paths in my career. For 10+ years I've moved between innovation hubs, tech companies and the social sector. I hold a Master's in Science, Technology and Society, and I use that lens to solve real problems.",
-        "I was once brought in to build a Quality department from scratch — one that didn't exist yet. Before that, I listened to customers — I understood what actually hurt in their day-to-day use of the product. Both experiences taught me the same thing: quality isn't paperwork. It's the trust a team keeps carrying long after I leave the room.",
+        "From design to technology, from research to product, from creativity to solving systemic problems, from strategic leadership to building solution architecture.",
         'Based in Lisbon today, I help scale-ups and enterprise tech teams across Europe and Brazil turn complexity into products that make sense.'
       ],
       experienceTitle: 'Experience',
@@ -359,7 +359,7 @@ export const translations = {
       bioSubheading: 'Un poco sobre mí',
       bioParagraphs: [
         'Producto, personas e innovación siempre se cruzaron en mi camino. Desde hace más de 10 años me muevo entre entornos de innovación, empresas de tecnología y el tercer sector. Soy máster en Ciencia, Tecnología y Sociedad, y uso esa mirada para resolver problemas reales.',
-        'Una vez me llamaron para montar, desde cero, un área de Calidad que todavía no existía. Antes de eso, escuchaba al cliente — entendía lo que realmente dolía en el día a día de quien usaba el producto. Las dos cosas juntas me enseñaron que la calidad no es papeleo: es la confianza que el equipo sigue cargando después de que yo salgo de la sala.',
+        'Del diseño a la tecnología, de la investigación al producto, de la creatividad a la resolución de problemas sistémicos, del liderazgo estratégico a la construcción de arquitectura de soluciones.',
         'Hoy vivo en Lisboa y ayudo a scale-ups y equipos de tecnología enterprise en Europa y Brasil a transformar la complejidad en productos que tienen sentido.'
       ],
       experienceTitle: 'Experiencia',
