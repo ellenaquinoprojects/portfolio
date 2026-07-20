@@ -22,7 +22,7 @@ export const translations = {
       bioParagraphs: [
         'Produto, pessoas e inovação sempre se cruzaram no meu caminho. Há mais de 10 anos transito entre ambientes de inovação, empresas de tecnologia e terceiro setor. Sou mestre em Ciência, Tecnologia e Sociedade, e uso essa lente pra resolver problemas reais.',
         'Do design pra tecnologia, da pesquisa pra produto, da criatividade pra resolução de problemas sistêmicos, da liderança estratégica à construção de arquitetura de soluções.',
-        'Hoje moro em Lisboa e ajudo scale-ups e empresas de tecnologia na Europa e no Brasil a transformar complexidade em produto que faz sentido.'
+        'Hoje moro em Lisboa e ajudo projetos e empresas de tecnologia no Canadá, na Europa e no Brasil a transformar complexidade em produto que faz sentido.'
       ],
       experienceTitle: 'Experiência',
       educationTitle: 'Formação',
@@ -191,7 +191,7 @@ export const translations = {
       bioParagraphs: [
         "Product, people and innovation have always crossed paths in my career. For 10+ years I've moved between innovation hubs, tech companies and the social sector. I hold a Master's in Science, Technology and Society, and I use that lens to solve real problems.",
         "From design to technology, from research to product, from creativity to solving systemic problems, from strategic leadership to building solution architecture.",
-        'Based in Lisbon today, I help scale-ups and enterprise tech teams across Europe and Brazil turn complexity into products that make sense.'
+        'Based in Lisbon today, I help projects and tech companies across Canada, Europe, and Brazil turn complexity into products that make sense.'
       ],
       experienceTitle: 'Experience',
       educationTitle: 'Education',
@@ -360,7 +360,7 @@ export const translations = {
       bioParagraphs: [
         'Producto, personas e innovación siempre se cruzaron en mi camino. Desde hace más de 10 años me muevo entre entornos de innovación, empresas de tecnología y el tercer sector. Soy máster en Ciencia, Tecnología y Sociedad, y uso esa mirada para resolver problemas reales.',
         'Del diseño a la tecnología, de la investigación al producto, de la creatividad a la resolución de problemas sistémicos, del liderazgo estratégico a la construcción de arquitectura de soluciones.',
-        'Hoy vivo en Lisboa y ayudo a scale-ups y equipos de tecnología enterprise en Europa y Brasil a transformar la complejidad en productos que tienen sentido.'
+        'Hoy vivo en Lisboa y ayudo a proyectos y empresas de tecnología en Canadá, Europa y Brasil a transformar la complejidad en productos que tienen sentido.'
       ],
       experienceTitle: 'Experiencia',
       educationTitle: 'Formación',
