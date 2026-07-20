@@ -28,9 +28,9 @@ export function Layout({ children }: LayoutProps) {
 
   const navItems = [
     { href: "/", label: t.nav.home },
+    { href: "/sobre", label: t.nav.about },
     { href: "/portfolio", label: t.nav.portfolio },
     { href: "/experiencia", label: t.nav.experience },
-    { href: "/sobre", label: t.nav.about },
     { href: "/contato", label: t.nav.contact }
   ];
 

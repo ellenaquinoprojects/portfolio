@@ -17,6 +17,8 @@ export const translations = {
     home: {
       headline: 'Inovação, Qualidade e Estratégia de Produto',
       subhead: 'Conecto pensamento científico e estratégia de mercado para transformar problemas complexos em produtos que as pessoas realmente usam.',
+      bioHeading: 'Quem é Ellen Aquino?',
+      bioSubheading: 'Um pouco sobre mim',
       bioParagraphs: [
         'Mestre em Ciência, Tecnologia e Sociedade (CTS), com mais de 10 anos de atuação em healthtech, fintech, educação e pesquisa em tecnologia para a sociedade. Desenho metodologias, produtos e programas que alinham necessidades do usuário, objetivos de negócio e viabilidade técnica, atuando em Discovery, Delivery e Melhoria Contínua.',
         'Ao longo dos anos, transitei com fluidez entre pesquisa, qualidade e estratégia de produto, aprofundando meu trabalho em Qualidade como um campo de design de processos, confiança e aprendizado coletivo — não apenas validação técnica. Minha abordagem é orientada por dados, colaborativa e construída sobre melhoria contínua, ajudando times a construir produtos que fazem sentido, geram impacto e evoluem com as pessoas que os usam.',
@@ -151,9 +153,23 @@ export const translations = {
       researchDesc: 'Combino profundidade analítica com experimentação prática, conectando pesquisa e execução.',
       collaborative: 'Impacto Colaborativo',
       collaborativeDesc: 'Construo parcerias que alinham necessidades do usuário, aprendizado de equipe e valor de negócio — gerando impacto mensurável por meio da colaboração.'
+    },
+
+    connection: {
+      title: 'Como conecto produto, qualidade e estratégia',
+      statTitle: 'Anos conectando pesquisa, produto e qualidade',
+      statDesc: 'Healthtech, fintech, educação e pesquisa em tecnologia para a sociedade.',
+      quality: { title: 'Qualidade Não é um Checkpoint', desc: 'Frameworks de qualidade, estratégia de testes e governança para confiabilidade.' },
+      techStrategy: { title: 'De Visão a Roadmap', desc: 'Consultoria estratégica que alinha tecnologia a objetivos de negócio e governança de inovação.' },
+      process: { title: 'Processo como Produto', desc: 'Design de processos, gestão de ciclo de vida de produto e melhoria contínua.' },
+      systems: { title: 'Feito para Escalar, Feito para Durar', desc: 'Arquitetura escalável com foco em resiliência e segurança.' },
+      systemic: { title: 'Enxergando o Sistema Inteiro', desc: 'Perspectivas sociais, técnicas e de negócio combinadas para desenhar soluções sustentáveis.' },
+      innovation: { title: 'Inovação, Entregue Continuamente', desc: 'Melhoria contínua e decisões orientadas por dados em cada etapa do desenvolvimento.' },
+      research: { title: 'Pesquisa Encontra Execução', desc: 'Profundidade analítica e experimentação prática conectando pesquisa e entrega.' },
+      collaboration: { title: 'Impacto Através da Colaboração', desc: 'Parcerias que alinham necessidades do usuário, aprendizado de equipe e valor de negócio.' }
     }
   },
-  
+
   en: {
     // Navigation
     nav: {
@@ -170,6 +186,8 @@ export const translations = {
     home: {
       headline: 'Innovation, Quality and Product Strategist',
       subhead: 'I bridge scientific thinking and market strategy to turn complex problems into products people actually use.',
+      bioHeading: 'Who is Ellen Aquino?',
+      bioSubheading: 'A bit about me',
       bioParagraphs: [
         'Master in Science, Technology and Society (STS), with 10+ years across healthtech, fintech, education, and tech-for-society research. I design methodologies, products, and programs that align user needs, business goals, and technical feasibility, working across Discovery, Delivery, and Continuous Improvement.',
         'Over the years I moved fluidly between research, quality, and product strategy, deepening my work in Quality as a field of process design, trust, and collective learning, not just technical validation. My approach is data-driven, collaborative, and built on continuous improvement, helping teams build products that make sense, create impact, and evolve with the people who use them.',
@@ -304,9 +322,23 @@ export const translations = {
       researchDesc: 'Combining analytical depth with hands-on experimentation to bridge research and execution.',
       collaborative: 'Collaborative Impact',
       collaborativeDesc: 'Building partnerships that align user needs, team learning, and business value — creating measurable impact through collaboration.'
+    },
+
+    connection: {
+      title: 'How I connect product, quality, and strategy',
+      statTitle: 'Years across healthtech, fintech & edtech',
+      statDesc: 'Research, quality and product strategy.',
+      quality: { title: "Quality Isn't a Checkpoint", desc: 'Quality frameworks, testing strategy and governance for reliability.' },
+      techStrategy: { title: 'Vision Into Roadmap', desc: 'Strategic consulting aligning technology to business goals and innovation governance.' },
+      process: { title: 'Process as Product', desc: 'Process design, product lifecycle management and continuous improvement.' },
+      systems: { title: 'Built to Scale, Built to Last', desc: 'Scalable architecture focused on resilience and security.' },
+      systemic: { title: 'Seeing the Whole System', desc: 'Social, technical and business perspectives combined to design sustainable solutions.' },
+      innovation: { title: 'Innovation, Delivered Continuously', desc: 'Continuous improvement and data-informed decisions in every stage of development.' },
+      research: { title: 'Research Meets Execution', desc: 'Analytical depth and hands-on experimentation bridging research and delivery.' },
+      collaboration: { title: 'Impact Through Collaboration', desc: 'Partnerships aligning user needs, team learning and business value.' }
     }
   },
-  
+
   es: {
     // Navigation
     nav: {
@@ -323,6 +355,8 @@ export const translations = {
     home: {
       headline: 'Innovación, Calidad y Estrategia de Producto',
       subhead: 'Conecto el pensamiento científico y la estrategia de mercado para transformar problemas complejos en productos que las personas realmente usan.',
+      bioHeading: '¿Quién es Ellen Aquino?',
+      bioSubheading: 'Un poco sobre mí',
       bioParagraphs: [
         'Máster en Ciencia, Tecnología y Sociedad (CTS), con más de 10 años de experiencia en healthtech, fintech, educación e investigación en tecnología para la sociedad. Diseño metodologías, productos y programas que alinean las necesidades del usuario, los objetivos de negocio y la viabilidad técnica, trabajando en Discovery, Delivery y Mejora Continua.',
         'A lo largo de los años me moví con fluidez entre investigación, calidad y estrategia de producto, profundizando mi trabajo en Calidad como un campo de diseño de procesos, confianza y aprendizaje colectivo, no solo validación técnica. Mi enfoque está basado en datos, es colaborativo y se construye sobre la mejora continua, ayudando a los equipos a crear productos que tienen sentido, generan impacto y evolucionan junto con las personas que los usan.',
@@ -457,6 +491,20 @@ export const translations = {
       researchDesc: 'Combino profundidad analítica con experimentación práctica, conectando investigación y ejecución.',
       collaborative: 'Impacto Colaborativo',
       collaborativeDesc: 'Construyo asociaciones que alinean necesidades del usuario, aprendizaje del equipo y valor de negocio — generando impacto medible a través de la colaboración.'
+    },
+
+    connection: {
+      title: 'Cómo conecto producto, calidad y estrategia',
+      statTitle: 'Años conectando investigación, producto y calidad',
+      statDesc: 'Healthtech, fintech, educación e investigación en tecnología para la sociedad.',
+      quality: { title: 'La Calidad No Es un Checkpoint', desc: 'Marcos de calidad, estrategia de pruebas y gobernanza para la confiabilidad.' },
+      techStrategy: { title: 'De Visión a Hoja de Ruta', desc: 'Consultoría estratégica que alinea la tecnología con los objetivos de negocio y la gobernanza de innovación.' },
+      process: { title: 'Proceso como Producto', desc: 'Diseño de procesos, gestión del ciclo de vida del producto y mejora continua.' },
+      systems: { title: 'Hecho para Escalar, Hecho para Durar', desc: 'Arquitectura escalable centrada en resiliencia y seguridad.' },
+      systemic: { title: 'Viendo el Sistema Completo', desc: 'Perspectivas sociales, técnicas y de negocio combinadas para diseñar soluciones sostenibles.' },
+      innovation: { title: 'Innovación, Entregada Continuamente', desc: 'Mejora continua y decisiones basadas en datos en cada etapa del desarrollo.' },
+      research: { title: 'Investigación Encuentra Ejecución', desc: 'Profundidad analítica y experimentación práctica que conecta investigación y entrega.' },
+      collaboration: { title: 'Impacto a Través de la Colaboración', desc: 'Alianzas que alinean las necesidades del usuario, el aprendizaje del equipo y el valor de negocio.' }
     }
   }
 };
