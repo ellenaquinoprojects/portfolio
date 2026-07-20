@@ -15,8 +15,13 @@ export const translations = {
     
     // Home
     home: {
-      headline: 'Product & Strategy',
-      subhead: 'Transformo dores reais em soluções escaláveis, equilibrando valor de negócio, experiência e viabilidade técnica.',
+      headline: 'Inovação, Qualidade e Estratégia de Produto',
+      subhead: 'Conecto pensamento científico e estratégia de mercado para transformar problemas complexos em produtos que as pessoas realmente usam.',
+      bioParagraphs: [
+        'Mestre em Ciência, Tecnologia e Sociedade (CTS), com mais de 10 anos de atuação em healthtech, fintech, educação e pesquisa em tecnologia para a sociedade. Desenho metodologias, produtos e programas que alinham necessidades do usuário, objetivos de negócio e viabilidade técnica, atuando em Discovery, Delivery e Melhoria Contínua.',
+        'Ao longo dos anos, transitei com fluidez entre pesquisa, qualidade e estratégia de produto, aprofundando meu trabalho em Qualidade como um campo de design de processos, confiança e aprendizado coletivo — não apenas validação técnica. Minha abordagem é orientada por dados, colaborativa e construída sobre melhoria contínua, ajudando times a construir produtos que fazem sentido, geram impacto e evoluem com as pessoas que os usam.',
+        'Atualmente baseada em Lisboa, trabalhando com scale-ups e times de tecnologia enterprise na Europa e no Brasil.'
+      ],
       experienceTitle: 'Experiência',
       educationTitle: 'Formação',
       featuredProjects: 'Projetos em destaque',
@@ -163,8 +168,13 @@ export const translations = {
     
     // Home
     home: {
-      headline: 'Product & Strategy',
-      subhead: 'I transform real pain points into scalable solutions, balancing business value, experience, and technical feasibility.',
+      headline: 'Innovation, Quality and Product Strategist',
+      subhead: 'I bridge scientific thinking and market strategy to turn complex problems into products people actually use.',
+      bioParagraphs: [
+        'Master in Science, Technology and Society (STS), with 10+ years across healthtech, fintech, education, and tech-for-society research. I design methodologies, products, and programs that align user needs, business goals, and technical feasibility, working across Discovery, Delivery, and Continuous Improvement.',
+        'Over the years I moved fluidly between research, quality, and product strategy, deepening my work in Quality as a field of process design, trust, and collective learning, not just technical validation. My approach is data-driven, collaborative, and built on continuous improvement, helping teams build products that make sense, create impact, and evolve with the people who use them.',
+        'Currently based in Lisbon, working with scale-ups and enterprise tech teams across Europe and Brazil.'
+      ],
       experienceTitle: 'Experience',
       educationTitle: 'Education',
       featuredProjects: 'Featured projects',
@@ -311,8 +321,13 @@ export const translations = {
     
     // Home
     home: {
-      headline: 'Product & Strategy',
-      subhead: 'Transformo problemas reais en soluciones escalables, equilibrando valor de negocio, experiencia y viabilidad técnica.',
+      headline: 'Innovación, Calidad y Estrategia de Producto',
+      subhead: 'Conecto el pensamiento científico y la estrategia de mercado para transformar problemas complejos en productos que las personas realmente usan.',
+      bioParagraphs: [
+        'Máster en Ciencia, Tecnología y Sociedad (CTS), con más de 10 años de experiencia en healthtech, fintech, educación e investigación en tecnología para la sociedad. Diseño metodologías, productos y programas que alinean las necesidades del usuario, los objetivos de negocio y la viabilidad técnica, trabajando en Discovery, Delivery y Mejora Continua.',
+        'A lo largo de los años me moví con fluidez entre investigación, calidad y estrategia de producto, profundizando mi trabajo en Calidad como un campo de diseño de procesos, confianza y aprendizaje colectivo, no solo validación técnica. Mi enfoque está basado en datos, es colaborativo y se construye sobre la mejora continua, ayudando a los equipos a crear productos que tienen sentido, generan impacto y evolucionan junto con las personas que los usan.',
+        'Actualmente radicada en Lisboa, trabajando con scale-ups y equipos de tecnología enterprise en Europa y Brasil.'
+      ],
       experienceTitle: 'Experiencia',
       educationTitle: 'Formación',
       featuredProjects: 'Proyectos destacados',
