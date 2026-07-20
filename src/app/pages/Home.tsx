@@ -14,7 +14,10 @@ import { useRef } from "react";
 export function Home() {
   const { language } = useLanguage();
   const t = useTranslation(language);
-  const featuredProjects = data.portfolio.slice(0, 3);
+  const featuredSlugs = ["gghub-approach-tours", "qualitymap-app", "quality-score-metodologia", "colegio-kingdom"];
+  const featuredProjects = featuredSlugs
+    .map(slug => data.portfolio.find(project => project.slug === slug))
+    .filter((project): project is (typeof data.portfolio)[number] => Boolean(project));
   
   // Parallax effect (reduzido e com cap em mobile)
   const heroRef = useRef(null);
@@ -106,59 +109,66 @@ export function Home() {
       {/* Mini Bio */}
       <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5 overflow-hidden">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          {/* Signature: name + overlapping photo */}
-          <div className="relative text-center select-none mb-16 md:mb-20">
-            <div>
-              <BlurText
-                text="ELLEN"
-                animateBy="letters"
-                delay={0.05}
-                className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
-              />
-            </div>
-            <div>
-              <BlurText
-                text="AQUINO"
-                animateBy="letters"
-                delay={0.05}
-                className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
-              />
-            </div>
-
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
-              <div className="w-[90px] h-[150px] sm:w-[110px] sm:h-[185px] md:w-[130px] md:h-[218px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
-                <img
-                  src={data.profilePhoto}
-                  alt="Ellen Aquino"
-                  width={260}
-                  height={436}
-                  className="w-full h-full object-cover select-none"
-                  draggable={false}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+            {/* Left: signature — name + overlapping photo */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="relative text-center select-none mx-auto lg:mx-0"
+            >
+              <div>
+                <BlurText
+                  text="ELLEN"
+                  animateBy="letters"
+                  delay={0.05}
+                  className="font-black tracking-tighter leading-[0.9] text-4xl md:text-5xl justify-center text-accent"
                 />
               </div>
-            </div>
-          </div>
+              <div>
+                <BlurText
+                  text="AQUINO"
+                  animateBy="letters"
+                  delay={0.05}
+                  className="font-black tracking-tighter leading-[0.9] text-4xl md:text-5xl justify-center text-accent"
+                />
+              </div>
 
-          {/* Bio text */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            className="max-w-2xl mx-auto text-center"
-          >
-            <p className="text-sm text-white/40 uppercase tracking-[0.2em] mb-2">
-              {t.home.bioSubheading}
-            </p>
-            <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-white mb-6">
-              {t.home.bioHeading}
-            </h2>
-            <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed text-left">
-              {t.home.bioParagraphs.map((paragraph, index) => (
-                <p key={index}>{paragraph}</p>
-              ))}
-            </div>
-          </motion.div>
+              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
+                <div className="w-[62px] h-[104px] md:w-[72px] md:h-[122px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
+                  <img
+                    src={data.profilePhoto}
+                    alt="Ellen Aquino"
+                    width={200}
+                    height={340}
+                    className="w-full h-full object-cover select-none"
+                    draggable={false}
+                  />
+                </div>
+              </div>
+            </motion.div>
+
+            {/* Right: bio text */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6, delay: 0.1 }}
+            >
+              <p className="text-sm text-white/40 uppercase tracking-[0.2em] mb-2">
+                {t.home.bioSubheading}
+              </p>
+              <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-white mb-6">
+                {t.home.bioHeading}
+              </h2>
+              <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed">
+                {t.home.bioParagraphs.map((paragraph, index) => (
+                  <p key={index}>{paragraph}</p>
+                ))}
+              </div>
+            </motion.div>
+          </div>
         </div>
       </section>
 
