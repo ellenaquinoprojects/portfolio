@@ -91,24 +91,26 @@ export function Home() {
       </section>
 
       {/* Mini Bio */}
-      <section className="py-24 md:py-32 bg-[#0A0A0A] border-y border-white/5">
+      <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-[320px_1fr] gap-12 lg:gap-20 items-start">
+          <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] gap-10 lg:gap-16 items-start">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="max-w-[320px] mx-auto lg:mx-0"
+              className="w-full max-w-[240px] mx-auto lg:mx-0"
             >
-              <img
-                src={data.profilePhoto}
-                alt="Ellen Aquino"
-                width={820}
-                height={920}
-                className="w-full h-auto object-cover rounded-2xl select-none"
-                draggable={false}
-              />
+              <div className="aspect-square rounded-full overflow-hidden border border-white/10 ring-1 ring-white/5 ring-offset-4 ring-offset-[#0A0A0A]">
+                <img
+                  src={data.profilePhoto}
+                  alt="Ellen Aquino"
+                  width={480}
+                  height={480}
+                  className="w-full h-full object-cover select-none"
+                  draggable={false}
+                />
+              </div>
             </motion.div>
 
             <motion.div
@@ -116,49 +118,38 @@ export function Home() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.1 }}
-              className="space-y-6 text-white/70 text-base lg:text-lg leading-relaxed"
             >
-              {t.home.bioParagraphs.map((paragraph, index) => (
-                <p key={index}>{paragraph}</p>
-              ))}
+              <p className="text-sm text-white/40 uppercase tracking-[0.2em] mb-2">
+                {t.home.bioSubheading}
+              </p>
+              <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-white mb-6">
+                {t.home.bioHeading}
+              </h2>
+              <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed">
+                {t.home.bioParagraphs.map((paragraph, index) => (
+                  <p key={index}>{paragraph}</p>
+                ))}
+              </div>
             </motion.div>
           </div>
         </div>
       </section>
 
-      {/* Logo Wall */}
-      <section className="py-24 border-y border-white/5 bg-[#0A0A0A]">
-        <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            className="text-center mb-16"
-          >
-            <p className="text-sm text-white/40 uppercase tracking-[0.2em]">
-              {language === 'pt' ? 'Confiança de organizações globais' : language === 'en' ? 'Trusted by global organizations' : 'Confianza de organizaciones globales'}
-            </p>
-          </motion.div>
-          <LogoWall employers={data.logoWall.employers} universities={data.logoWall.universities} />
-        </div>
-      </section>
-
       {/* Featured Work */}
-      <section className="py-32 bg-[#0A0A0A]">
+      <section className="py-16 md:py-20 bg-[#0A0A0A]">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, margin: "-100px" }}
             transition={{ duration: 0.6 }}
-            className="mb-20"
+            className="mb-12"
           >
             <h2 className="text-5xl md:text-6xl font-bold tracking-tight text-white mb-6">
               {t.home.featuredProjects}
             </h2>
             <p className="text-lg text-white/60 max-w-2xl">
-              {language === 'pt' 
+              {language === 'pt'
                 ? 'Explorando desafios complexos com estratégia, dados e design centrado no usuário.'
                 : language === 'en'
                 ? 'Exploring complex challenges with strategy, data, and user-centered design.'
@@ -186,7 +177,7 @@ export function Home() {
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
-            className="mt-20 text-center"
+            className="mt-12 text-center"
           >
             <motion.a
               href="/portfolio"
@@ -200,9 +191,16 @@ export function Home() {
         </div>
       </section>
 
+      {/* Connection Section (Services + Value Pillars unified) */}
+      <section className="py-16 md:py-20 border-t border-white/5 bg-gradient-to-b from-transparent to-white/[0.02]">
+        <div className="max-w-6xl mx-auto px-6 lg:px-8">
+          <ConnectionSection language={language} />
+        </div>
+      </section>
+
       {/* Testimonials Section */}
-      <section className="py-32 bg-[#0A0A0A] border-y border-white/5 overflow-hidden">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8 mb-16">
+      <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5 overflow-hidden">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 mb-10">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -214,8 +212,8 @@ export function Home() {
               {language === 'pt' ? 'Depoimentos' : language === 'en' ? 'Testimonials' : 'Testimonios'}
             </p>
             <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-white mb-6">
-              {language === 'pt' 
-                ? 'O que dizem sobre meu trabalho' 
+              {language === 'pt'
+                ? 'O que dizem sobre meu trabalho'
                 : language === 'en'
                 ? 'What people say about my work'
                 : 'Lo que dicen sobre mi trabajo'
@@ -227,10 +225,21 @@ export function Home() {
         <TestimonialCarousel testimonials={data.testimonials} />
       </section>
 
-      {/* Connection Section (Services + Value Pillars unified) */}
-      <section className="py-20 md:py-32 border-t border-white/5 bg-gradient-to-b from-transparent to-white/[0.02]">
+      {/* Logo Wall */}
+      <section className="py-16 bg-[#0A0A0A]">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          <ConnectionSection language={language} />
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="text-center mb-10"
+          >
+            <p className="text-sm text-white/40 uppercase tracking-[0.2em]">
+              {language === 'pt' ? 'Confiança de organizações globais' : language === 'en' ? 'Trusted by global organizations' : 'Confianza de organizaciones globales'}
+            </p>
+          </motion.div>
+          <LogoWall employers={data.logoWall.employers} universities={data.logoWall.universities} />
         </div>
       </section>
     </div>
