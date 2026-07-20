@@ -1,8 +1,9 @@
 import { motion, useScroll, useTransform } from "motion/react";
-import { CaseCard } from "../components/CaseCard";
 import { LogoWall } from "../components/LogoWall";
 import { TestimonialCarousel } from "../components/TestimonialCarousel";
 import { ConnectionSection } from "../components/ConnectionSection";
+import { FeaturedTimeline } from "../components/FeaturedTimeline";
+import { Entropy } from "../components/Entropy";
 import { data } from "../data/ellen";
 import { ArrowRight, Mail } from "lucide-react";
 import { useLanguage } from "../contexts/LanguageContext";
@@ -42,50 +43,61 @@ export function Home() {
         {/* content wrapper */}
         <div className="relative w-full h-full flex items-center">
           <div className="w-full max-w-[1800px] mx-auto px-6 lg:px-16 xl:px-24">
-            <motion.div
-              className="relative z-20 max-w-4xl"
-              style={{ y: textY, willChange: 'transform' }}
-              initial={{ opacity: 0, y: prefersReduced ? 0 : 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: prefersReduced ? 0 : 0.8, delay: 0.2 }}
-            >
-              <h1 className="font-black tracking-[-0.03em] leading-[0.95] text-white
-                             text-[clamp(2.75rem,6vw,6.5rem)]">
-                {t.home.headline}
-              </h1>
+            <div className="grid grid-cols-1 lg:grid-cols-[1.15fr_auto] gap-12 lg:gap-16 items-center">
+              <motion.div
+                className="relative z-20"
+                style={{ y: textY, willChange: 'transform' }}
+                initial={{ opacity: 0, y: prefersReduced ? 0 : 30 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: prefersReduced ? 0 : 0.8, delay: 0.2 }}
+              >
+                <h1 className="font-black tracking-[-0.03em] leading-[0.95] text-white
+                               text-[clamp(2.25rem,4.5vw,4.75rem)]">
+                  {t.home.headline}
+                </h1>
 
-              <p className="mt-6 text-lg lg:text-xl text-white/50 max-w-2xl">
-                {t.home.subhead}
-              </p>
+                <p className="mt-5 text-base lg:text-lg text-white/50 max-w-xl">
+                  {t.home.subhead}
+                </p>
 
-              <div className="mt-8 flex flex-wrap gap-3">
-                <motion.a
-                  href="/portfolio"
-                  whileHover={{ scale: 1.04 }}
-                  whileTap={{ scale: 0.98 }}
-                  className="group inline-flex items-center gap-2 px-7 py-3 bg-white text-black font-semibold
-                             rounded-full hover:bg-white/90 transition-all text-sm
-                             focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70
-                             focus-visible:ring-offset-2 focus-visible:ring-offset-black"
-                >
-                  {language === 'pt' ? 'Ver Projetos' : language === 'en' ? 'View Projects' : 'Ver Proyectos'}
-                  <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-                </motion.a>
+                <div className="mt-7 flex flex-wrap gap-3">
+                  <motion.a
+                    href="/portfolio"
+                    whileHover={{ scale: 1.04 }}
+                    whileTap={{ scale: 0.98 }}
+                    className="group inline-flex items-center gap-2 px-7 py-3 bg-white text-black font-semibold
+                               rounded-full hover:bg-white/90 transition-all text-sm
+                               focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70
+                               focus-visible:ring-offset-2 focus-visible:ring-offset-black"
+                  >
+                    {language === 'pt' ? 'Ver Projetos' : language === 'en' ? 'View Projects' : 'Ver Proyectos'}
+                    <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                  </motion.a>
 
-                <motion.a
-                  href="/contato"
-                  whileHover={{ scale: 1.04 }}
-                  whileTap={{ scale: 0.98 }}
-                  className="inline-flex items-center gap-2 px-7 py-3 border border-white/30 text-white
-                             hover:border-white/50 hover:bg-white/5 font-semibold rounded-full transition-all text-sm
-                             focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70
-                             focus-visible:ring-offset-2 focus-visible:ring-offset-black"
-                >
-                  <Mail size={16} />
-                  {language === 'pt' ? 'Contato' : language === 'en' ? 'Contact' : 'Contacto'}
-                </motion.a>
-              </div>
-            </motion.div>
+                  <motion.a
+                    href="/contato"
+                    whileHover={{ scale: 1.04 }}
+                    whileTap={{ scale: 0.98 }}
+                    className="inline-flex items-center gap-2 px-7 py-3 border border-white/30 text-white
+                               hover:border-white/50 hover:bg-white/5 font-semibold rounded-full transition-all text-sm
+                               focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70
+                               focus-visible:ring-offset-2 focus-visible:ring-offset-black"
+                  >
+                    <Mail size={16} />
+                    {language === 'pt' ? 'Contato' : language === 'en' ? 'Contact' : 'Contacto'}
+                  </motion.a>
+                </div>
+              </motion.div>
+
+              <motion.div
+                className="hidden lg:block relative z-10"
+                initial={{ opacity: 0, scale: 0.96 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ duration: prefersReduced ? 0 : 0.9, delay: 0.3 }}
+              >
+                <Entropy size={360} className="rounded-2xl overflow-hidden border border-white/10" />
+              </motion.div>
+            </div>
           </div>
         </div>
       </section>
@@ -158,19 +170,7 @@ export function Home() {
             </p>
           </motion.div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {featuredProjects.map((project, index) => (
-              <motion.div
-                key={project.slug}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, margin: "-50px" }}
-                transition={{ duration: 0.5, delay: index * 0.1 }}
-              >
-                <CaseCard project={project} />
-              </motion.div>
-            ))}
-          </div>
+          <FeaturedTimeline projects={featuredProjects} />
 
           <motion.div
             initial={{ opacity: 0 }}

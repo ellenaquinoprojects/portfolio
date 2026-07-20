@@ -20,9 +20,9 @@ export const translations = {
       bioHeading: 'Quem é Ellen Aquino?',
       bioSubheading: 'Um pouco sobre mim',
       bioParagraphs: [
-        'Mestre em Ciência, Tecnologia e Sociedade (CTS), com mais de 10 anos de atuação em healthtech, fintech, educação e pesquisa em tecnologia para a sociedade. Desenho metodologias, produtos e programas que alinham necessidades do usuário, objetivos de negócio e viabilidade técnica, atuando em Discovery, Delivery e Melhoria Contínua.',
-        'Ao longo dos anos, transitei com fluidez entre pesquisa, qualidade e estratégia de produto, aprofundando meu trabalho em Qualidade como um campo de design de processos, confiança e aprendizado coletivo — não apenas validação técnica. Minha abordagem é orientada por dados, colaborativa e construída sobre melhoria contínua, ajudando times a construir produtos que fazem sentido, geram impacto e evoluem com as pessoas que os usam.',
-        'Atualmente baseada em Lisboa, trabalhando com scale-ups e times de tecnologia enterprise na Europa e no Brasil.'
+        'Produto, pessoas e inovação sempre se cruzaram no meu caminho. Há mais de 10 anos transito entre ambientes de inovação, empresas de tecnologia e terceiro setor. Sou mestre em Ciência, Tecnologia e Sociedade, e uso essa lente pra resolver problemas reais.',
+        'Pesquiso, testo, entrego, melhoro — e repito. Qualidade, pra mim, não é checklist: é a forma como construo confiança e aprendizado coletivo dentro de um time. Trabalho com dados, mas decido com empatia.',
+        'Hoje moro em Lisboa e ajudo scale-ups e empresas de tecnologia na Europa e no Brasil a transformar complexidade em produto que faz sentido.'
       ],
       experienceTitle: 'Experiência',
       educationTitle: 'Formação',
@@ -189,9 +189,9 @@ export const translations = {
       bioHeading: 'Who is Ellen Aquino?',
       bioSubheading: 'A bit about me',
       bioParagraphs: [
-        'Master in Science, Technology and Society (STS), with 10+ years across healthtech, fintech, education, and tech-for-society research. I design methodologies, products, and programs that align user needs, business goals, and technical feasibility, working across Discovery, Delivery, and Continuous Improvement.',
-        'Over the years I moved fluidly between research, quality, and product strategy, deepening my work in Quality as a field of process design, trust, and collective learning, not just technical validation. My approach is data-driven, collaborative, and built on continuous improvement, helping teams build products that make sense, create impact, and evolve with the people who use them.',
-        'Currently based in Lisbon, working with scale-ups and enterprise tech teams across Europe and Brazil.'
+        "Product, people and innovation have always crossed paths in my career. For 10+ years I've moved between innovation hubs, tech companies and the social sector. I hold a Master's in Science, Technology and Society, and I use that lens to solve real problems.",
+        'Research, test, ship, improve — then repeat. Quality, to me, isn\'t a checklist. It\'s how I build trust and collective learning inside a team. I work with data, but I decide with empathy.',
+        'Based in Lisbon today, I help scale-ups and enterprise tech teams across Europe and Brazil turn complexity into products that make sense.'
       ],
       experienceTitle: 'Experience',
       educationTitle: 'Education',
@@ -358,9 +358,9 @@ export const translations = {
       bioHeading: '¿Quién es Ellen Aquino?',
       bioSubheading: 'Un poco sobre mí',
       bioParagraphs: [
-        'Máster en Ciencia, Tecnología y Sociedad (CTS), con más de 10 años de experiencia en healthtech, fintech, educación e investigación en tecnología para la sociedad. Diseño metodologías, productos y programas que alinean las necesidades del usuario, los objetivos de negocio y la viabilidad técnica, trabajando en Discovery, Delivery y Mejora Continua.',
-        'A lo largo de los años me moví con fluidez entre investigación, calidad y estrategia de producto, profundizando mi trabajo en Calidad como un campo de diseño de procesos, confianza y aprendizaje colectivo, no solo validación técnica. Mi enfoque está basado en datos, es colaborativo y se construye sobre la mejora continua, ayudando a los equipos a crear productos que tienen sentido, generan impacto y evolucionan junto con las personas que los usan.',
-        'Actualmente radicada en Lisboa, trabajando con scale-ups y equipos de tecnología enterprise en Europa y Brasil.'
+        'Producto, personas e innovación siempre se cruzaron en mi camino. Desde hace más de 10 años me muevo entre entornos de innovación, empresas de tecnología y el tercer sector. Soy máster en Ciencia, Tecnología y Sociedad, y uso esa mirada para resolver problemas reales.',
+        'Investigo, pruebo, entrego, mejoro — y repito. La calidad, para mí, no es una checklist: es cómo construyo confianza y aprendizaje colectivo dentro de un equipo. Trabajo con datos, pero decido con empatía.',
+        'Hoy vivo en Lisboa y ayudo a scale-ups y equipos de tecnología enterprise en Europa y Brasil a transformar la complejidad en productos que tienen sentido.'
       ],
       experienceTitle: 'Experiencia',
       educationTitle: 'Formación',
