@@ -116,14 +116,14 @@ export function Home() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="relative text-center select-none mx-auto lg:mx-0"
+              className="relative text-center select-none mx-auto lg:mx-0 flex flex-col justify-center min-h-full"
             >
               <div>
                 <BlurText
                   text="ELLEN"
                   animateBy="letters"
                   delay={0.05}
-                  className="font-black tracking-tighter leading-[0.9] text-5xl md:text-6xl justify-center text-accent"
+                  className="font-black tracking-tighter leading-[0.9] text-[clamp(3.5rem,9vw,7.5rem)] justify-center text-accent"
                 />
               </div>
               <div>
@@ -131,17 +131,17 @@ export function Home() {
                   text="AQUINO"
                   animateBy="letters"
                   delay={0.05}
-                  className="font-black tracking-tighter leading-[0.9] text-5xl md:text-6xl justify-center text-accent"
+                  className="font-black tracking-tighter leading-[0.9] text-[clamp(3.5rem,9vw,7.5rem)] justify-center text-accent"
                 />
               </div>
 
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
-                <div className="w-[72px] h-[120px] md:w-[84px] md:h-[142px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
+                <div className="w-[clamp(90px,12vw,170px)] h-[clamp(150px,20vw,285px)] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
                   <img
                     src={data.profilePhoto}
                     alt="Ellen Aquino"
-                    width={200}
-                    height={340}
+                    width={340}
+                    height={570}
                     className="w-full h-full object-cover select-none"
                     draggable={false}
                   />
