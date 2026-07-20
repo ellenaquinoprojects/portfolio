@@ -4,6 +4,7 @@ import { TestimonialCarousel } from "../components/TestimonialCarousel";
 import { ConnectionSection } from "../components/ConnectionSection";
 import { FeaturedTimeline } from "../components/FeaturedTimeline";
 import { Entropy } from "../components/Entropy";
+import { BlurText } from "../components/BlurText";
 import { data } from "../data/ellen";
 import { ArrowRight, Mail } from "lucide-react";
 import { useLanguage } from "../contexts/LanguageContext";
@@ -43,7 +44,7 @@ export function Home() {
         {/* content wrapper */}
         <div className="relative w-full h-full flex items-center">
           <div className="w-full max-w-[1800px] mx-auto px-6 lg:px-16 xl:px-24">
-            <div className="grid grid-cols-1 lg:grid-cols-[1.15fr_auto] gap-12 lg:gap-16 items-center">
+            <div className="grid grid-cols-1 xl:grid-cols-[0.8fr_auto] gap-12 xl:gap-10 items-center">
               <motion.div
                 className="relative z-20"
                 style={{ y: textY, willChange: 'transform' }}
@@ -90,12 +91,12 @@ export function Home() {
               </motion.div>
 
               <motion.div
-                className="hidden lg:block relative z-10"
+                className="hidden xl:block relative z-10"
                 initial={{ opacity: 0, scale: 0.96 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: prefersReduced ? 0 : 0.9, delay: 0.3 }}
               >
-                <Entropy size={360} className="rounded-2xl overflow-hidden border border-white/10" />
+                <Entropy size={520} />
               </motion.div>
             </div>
           </div>
@@ -103,47 +104,57 @@ export function Home() {
       </section>
 
       {/* Mini Bio */}
-      <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5">
+      <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5 overflow-hidden">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] gap-10 lg:gap-16 items-start">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6 }}
-              className="w-full max-w-[240px] mx-auto lg:mx-0"
-            >
-              <div className="aspect-square rounded-full overflow-hidden border border-white/10 ring-1 ring-white/5 ring-offset-4 ring-offset-[#0A0A0A]">
+          {/* Signature: name + overlapping photo */}
+          <div className="relative text-center select-none mb-16 md:mb-20">
+            <BlurText
+              text="ELLEN"
+              animateBy="letters"
+              delay={0.05}
+              className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
+            />
+            <BlurText
+              text="AQUINO"
+              animateBy="letters"
+              delay={0.05}
+              className="font-black tracking-tighter leading-[0.85] text-[clamp(3rem,10vw,7rem)] justify-center text-accent"
+            />
+
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
+              <div className="w-[90px] h-[150px] sm:w-[110px] sm:h-[185px] md:w-[130px] md:h-[218px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
                 <img
                   src={data.profilePhoto}
                   alt="Ellen Aquino"
-                  width={480}
-                  height={480}
+                  width={260}
+                  height={436}
                   className="w-full h-full object-cover select-none"
                   draggable={false}
                 />
               </div>
-            </motion.div>
-
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6, delay: 0.1 }}
-            >
-              <p className="text-sm text-white/40 uppercase tracking-[0.2em] mb-2">
-                {t.home.bioSubheading}
-              </p>
-              <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-white mb-6">
-                {t.home.bioHeading}
-              </h2>
-              <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed">
-                {t.home.bioParagraphs.map((paragraph, index) => (
-                  <p key={index}>{paragraph}</p>
-                ))}
-              </div>
-            </motion.div>
+            </div>
           </div>
+
+          {/* Bio text */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="max-w-2xl mx-auto text-center"
+          >
+            <p className="text-sm text-white/40 uppercase tracking-[0.2em] mb-2">
+              {t.home.bioSubheading}
+            </p>
+            <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-white mb-6">
+              {t.home.bioHeading}
+            </h2>
+            <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed text-left">
+              {t.home.bioParagraphs.map((paragraph, index) => (
+                <p key={index}>{paragraph}</p>
+              ))}
+            </div>
+          </motion.div>
         </div>
       </section>
 
