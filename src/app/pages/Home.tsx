@@ -109,7 +109,7 @@ export function Home() {
       {/* Mini Bio */}
       <section className="py-16 md:py-20 bg-[#0A0A0A] border-y border-white/5 overflow-hidden">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
             {/* Left: signature — name + overlapping photo */}
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -123,7 +123,7 @@ export function Home() {
                   text="ELLEN"
                   animateBy="letters"
                   delay={0.05}
-                  className="font-black tracking-tighter leading-[0.9] text-4xl md:text-5xl justify-center text-accent"
+                  className="font-black tracking-tighter leading-[0.9] text-5xl md:text-6xl justify-center text-accent"
                 />
               </div>
               <div>
@@ -131,12 +131,12 @@ export function Home() {
                   text="AQUINO"
                   animateBy="letters"
                   delay={0.05}
-                  className="font-black tracking-tighter leading-[0.9] text-4xl md:text-5xl justify-center text-accent"
+                  className="font-black tracking-tighter leading-[0.9] text-5xl md:text-6xl justify-center text-accent"
                 />
               </div>
 
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
-                <div className="w-[62px] h-[104px] md:w-[72px] md:h-[122px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
+                <div className="w-[72px] h-[120px] md:w-[84px] md:h-[142px] rounded-full overflow-hidden border-4 border-[#0A0A0A] shadow-2xl">
                   <img
                     src={data.profilePhoto}
                     alt="Ellen Aquino"
@@ -156,13 +156,13 @@ export function Home() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.1 }}
             >
-              <p className="text-sm text-white/40 uppercase tracking-[0.2em] mb-2">
+              <p className="text-xs text-white/40 uppercase tracking-[0.2em] mb-2">
                 {t.home.bioSubheading}
               </p>
-              <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-white mb-6">
+              <h2 className="text-xl md:text-2xl font-bold tracking-tight text-white mb-4">
                 {t.home.bioHeading}
               </h2>
-              <div className="space-y-5 text-white/70 text-base lg:text-lg leading-relaxed">
+              <div className="space-y-4 text-white/70 text-sm md:text-base leading-relaxed">
                 {t.home.bioParagraphs.map((paragraph, index) => (
                   <p key={index}>{paragraph}</p>
                 ))}
