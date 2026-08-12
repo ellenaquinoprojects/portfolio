@@ -248,29 +248,30 @@ export const data = {
   portfolio: [
     {
       slug: "gghub-approach-tours",
-      title: "GG Hub Platform — Approach Tours",
-      tags: ["Product Strategy", "Full-Stack Development", "UI/UX Design", "Database Integration", "Operations"],
-      summary: "Plataforma interna para centralizar operações e comunicações de grupos de viagem +50.",
+      title: "GG Hub — Plataforma dos Grow Guides (Approach Tours)",
+      tags: ["Product Strategy", "React + TypeScript", "Design System", "Operations", "Web Platform"],
+      summary: "Plataforma web interna da Approach Tours onde os Grow Guides (guias que lideram os tours) operam sua vida na empresa — tours, treinamento, perfil, comunidade e suporte — e o time interno gerencia pessoas, tours e configurações.",
       quickInfo: {
-        problem: "Operações gerenciadas por múltiplas planilhas dispersas, causando lentidão e erros em processos críticos de coordenação de viagens.",
-        process: "Discovery operacional → Mapeamento de jornadas → UI Design para 3 perfis → Integração Supabase → Testes iterativos.",
-        solution: "Hub centralizado com autenticação por perfil, gestão de tours, cronogramas e checklists — interface acessível para público +50."
+        problem: "Guias e time interno sem um lugar único para operar tours, treinamento e gestão — informação espalhada e dependente de canais informais.",
+        process: "Discovery com guias e time operacional → Arquitetura por domínios (Grow Guide e master/operational) → Design system próprio → Deploy contínuo.",
+        solution: "Hub central para o Grow Guide (tours, treinamento, perfil, comunidade, suporte) e backoffice para o time interno, integrado ao Peak15 (CRM) como fonte de verdade."
       },
-      status: "Em desenvolvimento — versão MVP em validação com usuários internos",
-      challenge: "Com o crescimento das operações e aumento no número de grupos, a Approach Tours enfrentava processos lentos e propensos a erro. O desafio era unificar informações dispersas em planilhas e criar uma experiência simples e acessível para um público com diferentes níveis de familiaridade digital.",
-      approach: "Hub digital centralizado desenvolvido em 4 frentes: (1) Ideação e Planejamento com stakeholders para definição do MVP; (2) UI Design para 3 perfis (admin, guia, viajante); (3) Integração Supabase com modelagem completa de dados; (4) Validação iterativa com testes de usabilidade e ajustes baseados em feedback.",
-      role: "Product Lead responsável pela concepção end-to-end: arquitetura funcional, design de interface, integração de banco de dados, e coordenação de testes com usuários.",
+      challenge: "Os Grow Guides e o time interno da Approach Tours não tinham um lugar único para operar o dia a dia — tours, treinamento, perfil, comunidade e gestão de pessoas ficavam espalhados em canais informais. O desafio era criar um hub que servisse dois domínios (o guia e o time master/operational) sobre a mesma base.",
+      approach: "Plataforma web com dois domínios sobre um design system próprio: a área do Grow Guide e o backoffice interno. Stack React + TypeScript + Vite + Tailwind, com deploy automático via GitHub Actions para Google Cloud Run (produção e staging) e integração read-only com o Peak15 (CRM), fonte de verdade de tours, trips, travellers e tags.",
+      role: "Product Strategist / Product Lead — descoberta, definição dos domínios e priorização de roadmap, em conjunto com design e engenharia.",
       images: {
         prototypeExamples: ggHubPrototypeExamples
       },
       keyFeatures: [
-        "Sistema de autenticação com perfis diferenciados (Admin, Guia, Viajante)",
-        "Gestão centralizada de tours e cronogramas",
-        "Interface acessível e intuitiva para público +50",
-        "Integração completa com Supabase para persistência de dados",
-        "Checklists operacionais e ferramentas de coordenação"
+        "Área do Grow Guide: tours, treinamento, perfil, comunidade e suporte",
+        "Backoffice para o time interno gerir pessoas, tours e configurações",
+        "Design system próprio (React + TypeScript + Vite + Tailwind)",
+        "Deploy automático via GitHub Actions → Google Cloud Run (produção e staging)",
+        "Integração read-only com o Peak15 (CRM) como fonte de verdade"
       ],
-      links: [],
+      links: [
+        { label: "Approach Systems", url: "https://approachsystems.figma.site/" }
+      ],
       media: [],
       supporters: [
         { name: "Approach Tours", url: "https://approachtours.com", logo: "" }
@@ -576,6 +577,61 @@ export const data = {
       media: [],
       supporters: [],
       thumb: colegioKingdomHero
+    },
+    {
+      slug: "thub-approach-tours",
+      title: "T-Hub — Prontidão de Viajantes (Approach Tours)",
+      tags: ["Product Strategy", "React + TypeScript", "Design System", "Stripe", "B2B/B2C"],
+      summary: "Plataforma da Approach Tours para gerenciar a prontidão de viajantes em tours de grupo — do booking à partida. Uma base de código, dois produtos que se separam por domínio: Ops (backoffice do time) e Traveller (área do viajante logado).",
+      quickInfo: {
+        problem: "Acompanhar a prontidão de cada viajante — dados, pagamento, documentos, pickup, seguro — até a partida era disperso e difícil de monitorar em escala.",
+        process: "Modelagem de domínios (Ops × Traveller) sobre uma base única → Traveller Control Table → Fluxos de dados pessoais e upload de documentos → Pagamento via Stripe.",
+        solution: "Ops centraliza a operação do time; Traveller entrega ao viajante seus bookings, uploads e dados pessoais em fases, com pagamento via Stripe — tudo sobre a mesma base de código."
+      },
+      challenge: "A Approach Tours precisava garantir que cada viajante chegasse pronto para o tour — com dados, pagamento, documentos, pickup e seguro em dia. Monitorar isso em escala, para muitos viajantes e departures, era disperso e propenso a falhas.",
+      approach: "Uma base de código servindo dois produtos por domínio: o Ops (backoffice) com Work Queue, gestão de tours/departures e a Traveller Control Table (status por viajante); e o Traveller, área logada onde o viajante vê bookings, envia documentos, preenche dados pessoais em fases e paga via Stripe. Stack React 18 + TypeScript + Vite, Tailwind e design system próprio, com cobertura de testes em Vitest.",
+      role: "Product Strategist — definição dos domínios, fluxos e priorização entre os dois produtos.",
+      keyFeatures: [
+        "Traveller Control Table: status por viajante (dados, pagamento, documentos, pickup, seguro, alertas)",
+        "Work Queue e gestão de tours/departures para o time (Ops)",
+        "Área do viajante: bookings, upload de documentos e dados pessoais em fases",
+        "Pagamento integrado via Stripe",
+        "Base única servindo dois produtos (Ops e Traveller) por domínio",
+        "Cobertura de testes automatizados (Vitest, 304 cenários)"
+      ],
+      links: [
+        { label: "Approach Systems", url: "https://approachsystems.figma.site/" }
+      ],
+      media: [],
+      supporters: [
+        { name: "Approach Tours", url: "https://approachtours.com", logo: "" }
+      ],
+      thumb: ""
+    },
+    {
+      slug: "passaporte-acessivel",
+      title: "Passaporte Acessível — Avaliação de Acessibilidade de Roteiros",
+      tags: ["Product Strategy", "Data Product", "Acessibilidade", "React + Supabase", "Setor Público"],
+      summary: "Plataforma que transforma a avaliação de acessibilidade de roteiros turísticos em dado estruturado, comparável e apresentável — da coleta em campo ao laudo técnico e aos relatórios consolidados para o gestor público.",
+      quickInfo: {
+        problem: "Avaliações de acessibilidade de espaços turísticos eram soltas e subjetivas, sem forma de comparar, pontuar ou apresentar de maneira estruturada.",
+        process: "Coleta em campo de pontos por roteiro → Classificação por dimensão de acessibilidade → Score e selo de certificação → Laudo técnico e relatórios consolidados.",
+        solution: "Cada roteiro é composto por pontos avaliados em campo; cada ponto e cada roteiro recebe classificação por dimensão, score e selo de certificação, gerando laudos e relatórios para a gestão pública."
+      },
+      challenge: "A acessibilidade de roteiros turísticos era avaliada de forma dispersa e subjetiva, sem um modelo que permitisse comparar espaços, pontuar dimensões e apresentar resultados de forma confiável para gestores públicos.",
+      approach: "Um produto de dados que estrutura a avaliação de ponta a ponta: um roteiro (ex.: Museu do Ipiranga, Liberdade) é composto de pontos avaliados em campo; cada ponto e cada roteiro recebe classificação por dimensão de acessibilidade, um score e um selo de certificação. Front em React 18 + TypeScript + Vite + Tailwind, com mapa interativo (Google Maps); back em Supabase (Postgres + RLS) com migrations versionadas.",
+      role: "Product Strategist — modelagem do produto de dados, das dimensões de avaliação ao formato de laudo e relatório.",
+      keyFeatures: [
+        "Roteiros compostos por pontos avaliados em campo",
+        "Classificação por dimensão de acessibilidade, com score e selo de certificação",
+        "Da coleta em campo ao laudo técnico e aos relatórios consolidados",
+        "Mapa interativo (Google Maps) com pontos e rotas",
+        "Backend em Supabase (Postgres + RLS) com migrations versionadas"
+      ],
+      links: [],
+      media: [],
+      supporters: [],
+      thumb: ""
     }
   ],
   

@@ -25,72 +25,206 @@ export type ProjectTranslations = {
 export const portfolioTranslations: ProjectTranslations = {
   'gghub-approach-tours': {
     summary: {
-      pt: "Plataforma interna para centralizar operações e comunicações de grupos de viagem +50.",
-      en: "Internal platform to centralize operations and communications for 50+ travel groups.",
-      es: "Plataforma interna para centralizar operaciones y comunicaciones de grupos de viaje +50."
-    },
-    status: {
-      pt: "Em desenvolvimento — versão MVP em validação com usuários internos",
-      en: "In development — MVP version under validation with internal users",
-      es: "En desarrollo — versión MVP en validación con usuarios internos"
+      pt: "Plataforma web interna da Approach Tours onde os Grow Guides (guias que lideram os tours) operam sua vida na empresa — tours, treinamento, perfil, comunidade e suporte — e o time interno gerencia pessoas, tours e configurações.",
+      en: "Approach Tours' internal web platform where Grow Guides (the guides who lead the tours) run their life at the company — tours, training, profile, community, and support — and the internal team manages people, tours, and settings.",
+      es: "Plataforma web interna de Approach Tours donde los Grow Guides (los guías que lideran los tours) gestionan su vida en la empresa — tours, formación, perfil, comunidad y soporte — y el equipo interno administra personas, tours y configuraciones."
     },
     quickInfo: {
       problem: {
-        pt: "Operações gerenciadas por múltiplas planilhas dispersas, causando lentidão e erros em processos críticos de coordenação de viagens.",
-        en: "Operations managed by multiple scattered spreadsheets, causing slowness and errors in critical travel coordination processes.",
-        es: "Operaciones gestionadas por múltiples hojas de cálculo dispersas, causando lentitud y errores en procesos críticos de coordinación de viajes."
+        pt: "Guias e time interno sem um lugar único para operar tours, treinamento e gestão — informação espalhada e dependente de canais informais.",
+        en: "Guides and internal team without a single place to run tours, training, and management — information scattered and dependent on informal channels.",
+        es: "Guías y equipo interno sin un lugar único para gestionar tours, formación y administración — información dispersa y dependiente de canales informales."
       },
       process: {
-        pt: "Discovery operacional → Mapeamento de jornadas → UI Design para 3 perfis → Integração Supabase → Testes iterativos.",
-        en: "Operational Discovery → Journey Mapping → UI Design for 3 profiles → Supabase Integration → Iterative Testing.",
-        es: "Discovery operacional → Mapeo de jornadas → Diseño UI para 3 perfiles → Integración Supabase → Pruebas iterativas."
+        pt: "Discovery com guias e time operacional → Arquitetura por domínios (Grow Guide e master/operational) → Design system próprio → Deploy contínuo.",
+        en: "Discovery with guides and operational team → Domain-based architecture (Grow Guide and master/operational) → In-house design system → Continuous deployment.",
+        es: "Discovery con guías y equipo operativo → Arquitectura por dominios (Grow Guide y master/operational) → Design system propio → Despliegue continuo."
       },
       solution: {
-        pt: "Hub centralizado com autenticação por perfil, gestão de tours, cronogramas e checklists — interface acessível para público +50.",
-        en: "Centralized hub with profile-based authentication, tour management, schedules, and checklists — accessible interface for 50+ audience.",
-        es: "Hub centralizado con autenticación por perfil, gestión de tours, cronogramas y checklists — interfaz accesible para público +50."
+        pt: "Hub central para o Grow Guide (tours, treinamento, perfil, comunidade, suporte) e backoffice para o time interno, integrado ao Peak15 (CRM) como fonte de verdade.",
+        en: "A central hub for the Grow Guide (tours, training, profile, community, support) and a backoffice for the internal team, integrated with Peak15 (CRM) as the source of truth.",
+        es: "Un hub central para el Grow Guide (tours, formación, perfil, comunidad, soporte) y un backoffice para el equipo interno, integrado con Peak15 (CRM) como fuente de verdad."
       }
     },
     challenge: {
-      pt: "Com o crescimento das operações e aumento no número de grupos, a Approach Tours enfrentava processos lentos e propensos a erro. O desafio era unificar informações dispersas em planilhas e criar uma experiência simples e acessível para um público com diferentes níveis de familiaridade digital.",
-      en: "With the growth of operations and increase in group numbers, Approach Tours faced slow and error-prone processes. The challenge was to unify scattered information in spreadsheets and create a simple and accessible experience for an audience with different levels of digital familiarity.",
-      es: "Con el crecimiento de las operaciones y el aumento en el número de grupos, Approach Tours enfrentaba procesos lentos y propensos a errores. El desafío era unificar información dispersa en hojas de cálculo y crear una experiencia simple y accesible para un público con diferentes niveles de familiaridad digital."
+      pt: "Os Grow Guides e o time interno da Approach Tours não tinham um lugar único para operar o dia a dia — tours, treinamento, perfil, comunidade e gestão de pessoas ficavam espalhados em canais informais. O desafio era criar um hub que servisse dois domínios (o guia e o time master/operational) sobre a mesma base.",
+      en: "Approach Tours' Grow Guides and internal team had no single place to run day-to-day work — tours, training, profile, community, and people management were scattered across informal channels. The challenge was to build one hub serving two domains (the guide and the master/operational team) on the same base.",
+      es: "Los Grow Guides y el equipo interno de Approach Tours no tenían un lugar único para gestionar el día a día — tours, formación, perfil, comunidad y gestión de personas estaban dispersos en canales informales. El desafío era crear un hub que sirviera a dos dominios (el guía y el equipo master/operational) sobre la misma base."
     },
     approach: {
-      pt: "Hub digital centralizado desenvolvido em 4 frentes: (1) Ideação e Planejamento com stakeholders para definição do MVP; (2) UI Design para 3 perfis (admin, guia, viajante); (3) Integração Supabase com modelagem completa de dados; (4) Validação iterativa com testes de usabilidade e ajustes baseados em feedback.",
-      en: "Centralized digital hub developed in 4 fronts: (1) Ideation and Planning with stakeholders for MVP definition; (2) UI Design for 3 profiles (admin, guide, traveler); (3) Supabase Integration with complete data modeling; (4) Iterative validation with usability testing and feedback-based adjustments.",
-      es: "Hub digital centralizado desarrollado en 4 frentes: (1) Ideación y Planificación con stakeholders para definición del MVP; (2) Diseño UI para 3 perfiles (admin, guía, viajero); (3) Integración Supabase con modelado completo de datos; (4) Validación iterativa con pruebas de usabilidad y ajustes basados en feedback."
+      pt: "Plataforma web com dois domínios sobre um design system próprio: a área do Grow Guide e o backoffice interno. Stack React + TypeScript + Vite + Tailwind, com deploy automático via GitHub Actions para Google Cloud Run (produção e staging) e integração read-only com o Peak15 (CRM), fonte de verdade de tours, trips, travellers e tags.",
+      en: "A web platform with two domains on an in-house design system: the Grow Guide area and the internal backoffice. React + TypeScript + Vite + Tailwind stack, with automatic deployment via GitHub Actions to Google Cloud Run (production and staging) and read-only integration with Peak15 (CRM), the source of truth for tours, trips, travellers, and tags.",
+      es: "Una plataforma web con dos dominios sobre un design system propio: el área del Grow Guide y el backoffice interno. Stack React + TypeScript + Vite + Tailwind, con despliegue automático vía GitHub Actions a Google Cloud Run (producción y staging) e integración read-only con Peak15 (CRM), fuente de verdad de tours, trips, travellers y tags."
     },
     role: {
-      pt: "Product Lead responsável pela concepção end-to-end: arquitetura funcional, design de interface, integração de banco de dados, e coordenação de testes com usuários.",
-      en: "Product Lead responsible for end-to-end conception: functional architecture, interface design, database integration, and user testing coordination.",
-      es: "Product Lead responsable de la concepción end-to-end: arquitectura funcional, diseño de interfaz, integración de base de datos y coordinación de pruebas con usuarios."
+      pt: "Product Strategist / Product Lead — descoberta, definição dos domínios e priorização de roadmap, em conjunto com design e engenharia.",
+      en: "Product Strategist / Product Lead — discovery, domain definition, and roadmap prioritization, together with design and engineering.",
+      es: "Product Strategist / Product Lead — discovery, definición de dominios y priorización de roadmap, junto con diseño e ingeniería."
     },
     keyFeatures: [
       {
-        pt: "Sistema de autenticação com perfis diferenciados (Admin, Guia, Viajante)",
-        en: "Authentication system with differentiated profiles (Admin, Guide, Traveler)",
-        es: "Sistema de autenticación con perfiles diferenciados (Admin, Guía, Viajero)"
+        pt: "Área do Grow Guide: tours, treinamento, perfil, comunidade e suporte",
+        en: "Grow Guide area: tours, training, profile, community, and support",
+        es: "Área del Grow Guide: tours, formación, perfil, comunidad y soporte"
       },
       {
-        pt: "Gestão centralizada de tours e cronogramas",
-        en: "Centralized management of tours and schedules",
-        es: "Gestión centralizada de tours y cronogramas"
+        pt: "Backoffice para o time interno gerir pessoas, tours e configurações",
+        en: "Backoffice for the internal team to manage people, tours, and settings",
+        es: "Backoffice para que el equipo interno gestione personas, tours y configuraciones"
       },
       {
-        pt: "Interface acessível e intuitiva para público +50",
-        en: "Accessible and intuitive interface for 50+ audience",
-        es: "Interfaz accesible e intuitiva para público +50"
+        pt: "Design system próprio (React + TypeScript + Vite + Tailwind)",
+        en: "In-house design system (React + TypeScript + Vite + Tailwind)",
+        es: "Design system propio (React + TypeScript + Vite + Tailwind)"
       },
       {
-        pt: "Integração completa com Supabase para persistência de dados",
-        en: "Complete Supabase integration for data persistence",
-        es: "Integración completa con Supabase para persistencia de datos"
+        pt: "Deploy automático via GitHub Actions → Google Cloud Run (produção e staging)",
+        en: "Automatic deployment via GitHub Actions → Google Cloud Run (production and staging)",
+        es: "Despliegue automático vía GitHub Actions → Google Cloud Run (producción y staging)"
       },
       {
-        pt: "Checklists operacionais e ferramentas de coordenação",
-        en: "Operational checklists and coordination tools",
-        es: "Checklists operacionales y herramientas de coordinación"
+        pt: "Integração read-only com o Peak15 (CRM) como fonte de verdade",
+        en: "Read-only integration with Peak15 (CRM) as the source of truth",
+        es: "Integración read-only con Peak15 (CRM) como fuente de verdad"
+      }
+    ]
+  },
+
+  'thub-approach-tours': {
+    summary: {
+      pt: "Plataforma da Approach Tours para gerenciar a prontidão de viajantes em tours de grupo — do booking à partida. Uma base de código, dois produtos que se separam por domínio: Ops (backoffice do time) e Traveller (área do viajante logado).",
+      en: "Approach Tours' platform to manage traveller readiness on group tours — from booking to departure. One codebase, two products split by domain: Ops (the team's backoffice) and Traveller (the logged-in traveller area).",
+      es: "Plataforma de Approach Tours para gestionar la preparación de los viajeros en tours de grupo — del booking a la salida. Una base de código, dos productos que se separan por dominio: Ops (backoffice del equipo) y Traveller (área del viajero logueado)."
+    },
+    quickInfo: {
+      problem: {
+        pt: "Acompanhar a prontidão de cada viajante — dados, pagamento, documentos, pickup, seguro — até a partida era disperso e difícil de monitorar em escala.",
+        en: "Tracking each traveller's readiness — personal data, payment, documents, pickup, insurance — up to departure was scattered and hard to monitor at scale.",
+        es: "Seguir la preparación de cada viajero — datos, pago, documentos, pickup, seguro — hasta la salida era disperso y difícil de monitorear a escala."
+      },
+      process: {
+        pt: "Modelagem de domínios (Ops × Traveller) sobre uma base única → Traveller Control Table → Fluxos de dados pessoais e upload de documentos → Pagamento via Stripe.",
+        en: "Domain modeling (Ops × Traveller) on a single base → Traveller Control Table → Personal data flows and document upload → Payment via Stripe.",
+        es: "Modelado de dominios (Ops × Traveller) sobre una base única → Traveller Control Table → Flujos de datos personales y carga de documentos → Pago vía Stripe."
+      },
+      solution: {
+        pt: "Ops centraliza a operação do time; Traveller entrega ao viajante seus bookings, uploads e dados pessoais em fases, com pagamento via Stripe — tudo sobre a mesma base de código.",
+        en: "Ops centralizes the team's operation; Traveller gives the traveller their bookings, uploads, and phased personal data, with payment via Stripe — all on the same codebase.",
+        es: "Ops centraliza la operación del equipo; Traveller entrega al viajero sus bookings, cargas y datos personales por fases, con pago vía Stripe — todo sobre la misma base de código."
+      }
+    },
+    challenge: {
+      pt: "A Approach Tours precisava garantir que cada viajante chegasse pronto para o tour — com dados, pagamento, documentos, pickup e seguro em dia. Monitorar isso em escala, para muitos viajantes e departures, era disperso e propenso a falhas.",
+      en: "Approach Tours needed to ensure each traveller arrived ready for the tour — with personal data, payment, documents, pickup, and insurance in order. Monitoring that at scale, across many travellers and departures, was scattered and error-prone.",
+      es: "Approach Tours necesitaba garantizar que cada viajero llegara preparado para el tour — con datos, pago, documentos, pickup y seguro al día. Monitorear eso a escala, para muchos viajeros y departures, era disperso y propenso a fallos."
+    },
+    approach: {
+      pt: "Uma base de código servindo dois produtos por domínio: o Ops (backoffice) com Work Queue, gestão de tours/departures e a Traveller Control Table (status por viajante); e o Traveller, área logada onde o viajante vê bookings, envia documentos, preenche dados pessoais em fases e paga via Stripe. Stack React 18 + TypeScript + Vite, Tailwind e design system próprio, com cobertura de testes em Vitest.",
+      en: "One codebase serving two products by domain: Ops (backoffice) with a Work Queue, tour/departure management, and the Traveller Control Table (per-traveller status); and Traveller, the logged-in area where the traveller sees bookings, uploads documents, fills in phased personal data, and pays via Stripe. React 18 + TypeScript + Vite stack, Tailwind and an in-house design system, with Vitest test coverage.",
+      es: "Una base de código sirviendo a dos productos por dominio: Ops (backoffice) con Work Queue, gestión de tours/departures y la Traveller Control Table (estado por viajero); y Traveller, área logueada donde el viajero ve bookings, sube documentos, completa datos personales por fases y paga vía Stripe. Stack React 18 + TypeScript + Vite, Tailwind y design system propio, con cobertura de pruebas en Vitest."
+    },
+    role: {
+      pt: "Product Strategist — definição dos domínios, fluxos e priorização entre os dois produtos.",
+      en: "Product Strategist — domain definition, flows, and prioritization across the two products.",
+      es: "Product Strategist — definición de dominios, flujos y priorización entre los dos productos."
+    },
+    keyFeatures: [
+      {
+        pt: "Traveller Control Table: status por viajante (dados, pagamento, documentos, pickup, seguro, alertas)",
+        en: "Traveller Control Table: per-traveller status (data, payment, documents, pickup, insurance, alerts)",
+        es: "Traveller Control Table: estado por viajero (datos, pago, documentos, pickup, seguro, alertas)"
+      },
+      {
+        pt: "Work Queue e gestão de tours/departures para o time (Ops)",
+        en: "Work Queue and tour/departure management for the team (Ops)",
+        es: "Work Queue y gestión de tours/departures para el equipo (Ops)"
+      },
+      {
+        pt: "Área do viajante: bookings, upload de documentos e dados pessoais em fases",
+        en: "Traveller area: bookings, document upload, and phased personal data",
+        es: "Área del viajero: bookings, carga de documentos y datos personales por fases"
+      },
+      {
+        pt: "Pagamento integrado via Stripe",
+        en: "Integrated payment via Stripe",
+        es: "Pago integrado vía Stripe"
+      },
+      {
+        pt: "Base única servindo dois produtos (Ops e Traveller) por domínio",
+        en: "Single base serving two products (Ops and Traveller) by domain",
+        es: "Base única sirviendo a dos productos (Ops y Traveller) por dominio"
+      },
+      {
+        pt: "Cobertura de testes automatizados (Vitest, 304 cenários)",
+        en: "Automated test coverage (Vitest, 304 scenarios)",
+        es: "Cobertura de pruebas automatizadas (Vitest, 304 escenarios)"
+      }
+    ]
+  },
+
+  'passaporte-acessivel': {
+    summary: {
+      pt: "Plataforma que transforma a avaliação de acessibilidade de roteiros turísticos em dado estruturado, comparável e apresentável — da coleta em campo ao laudo técnico e aos relatórios consolidados para o gestor público.",
+      en: "A platform that turns accessibility assessment of tourist routes into structured, comparable, and presentable data — from field collection to the technical report and consolidated reports for public managers.",
+      es: "Plataforma que transforma la evaluación de accesibilidad de rutas turísticas en dato estructurado, comparable y presentable — de la recolección en campo al informe técnico y a los reportes consolidados para el gestor público."
+    },
+    quickInfo: {
+      problem: {
+        pt: "Avaliações de acessibilidade de espaços turísticos eram soltas e subjetivas, sem forma de comparar, pontuar ou apresentar de maneira estruturada.",
+        en: "Accessibility assessments of tourist spaces were loose and subjective, with no way to compare, score, or present them in a structured way.",
+        es: "Las evaluaciones de accesibilidad de espacios turísticos eran sueltas y subjetivas, sin forma de comparar, puntuar o presentar de manera estructurada."
+      },
+      process: {
+        pt: "Coleta em campo de pontos por roteiro → Classificação por dimensão de acessibilidade → Score e selo de certificação → Laudo técnico e relatórios consolidados.",
+        en: "Field collection of points per route → Classification by accessibility dimension → Score and certification seal → Technical report and consolidated reports.",
+        es: "Recolección en campo de puntos por ruta → Clasificación por dimensión de accesibilidad → Score y sello de certificación → Informe técnico y reportes consolidados."
+      },
+      solution: {
+        pt: "Cada roteiro é composto por pontos avaliados em campo; cada ponto e cada roteiro recebe classificação por dimensão, score e selo de certificação, gerando laudos e relatórios para a gestão pública.",
+        en: "Each route is made of field-assessed points; each point and each route gets a per-dimension classification, a score, and a certification seal, generating reports for public management.",
+        es: "Cada ruta se compone de puntos evaluados en campo; cada punto y cada ruta recibe una clasificación por dimensión, un score y un sello de certificación, generando informes para la gestión pública."
+      }
+    },
+    challenge: {
+      pt: "A acessibilidade de roteiros turísticos era avaliada de forma dispersa e subjetiva, sem um modelo que permitisse comparar espaços, pontuar dimensões e apresentar resultados de forma confiável para gestores públicos.",
+      en: "The accessibility of tourist routes was assessed in a scattered, subjective way, with no model to compare spaces, score dimensions, and present results reliably to public managers.",
+      es: "La accesibilidad de las rutas turísticas se evaluaba de forma dispersa y subjetiva, sin un modelo que permitiera comparar espacios, puntuar dimensiones y presentar resultados de forma confiable a los gestores públicos."
+    },
+    approach: {
+      pt: "Um produto de dados que estrutura a avaliação de ponta a ponta: um roteiro (ex.: Museu do Ipiranga, Liberdade) é composto de pontos avaliados em campo; cada ponto e cada roteiro recebe classificação por dimensão de acessibilidade, um score e um selo de certificação. Front em React 18 + TypeScript + Vite + Tailwind, com mapa interativo (Google Maps); back em Supabase (Postgres + RLS) com migrations versionadas.",
+      en: "A data product that structures assessment end to end: a route (e.g., Museu do Ipiranga, Liberdade) is made of field-assessed points; each point and each route gets a per-accessibility-dimension classification, a score, and a certification seal. Front end in React 18 + TypeScript + Vite + Tailwind, with an interactive map (Google Maps); back end in Supabase (Postgres + RLS) with versioned migrations.",
+      es: "Un producto de datos que estructura la evaluación de punta a punta: una ruta (ej.: Museu do Ipiranga, Liberdade) se compone de puntos evaluados en campo; cada punto y cada ruta recibe una clasificación por dimensión de accesibilidad, un score y un sello de certificación. Front en React 18 + TypeScript + Vite + Tailwind, con mapa interactivo (Google Maps); back en Supabase (Postgres + RLS) con migraciones versionadas."
+    },
+    role: {
+      pt: "Product Strategist — modelagem do produto de dados, das dimensões de avaliação ao formato de laudo e relatório.",
+      en: "Product Strategist — modeling the data product, from assessment dimensions to report format.",
+      es: "Product Strategist — modelado del producto de datos, de las dimensiones de evaluación al formato de informe."
+    },
+    keyFeatures: [
+      {
+        pt: "Roteiros compostos por pontos avaliados em campo",
+        en: "Routes composed of field-assessed points",
+        es: "Rutas compuestas por puntos evaluados en campo"
+      },
+      {
+        pt: "Classificação por dimensão de acessibilidade, com score e selo de certificação",
+        en: "Classification by accessibility dimension, with score and certification seal",
+        es: "Clasificación por dimensión de accesibilidad, con score y sello de certificación"
+      },
+      {
+        pt: "Da coleta em campo ao laudo técnico e aos relatórios consolidados",
+        en: "From field collection to the technical report and consolidated reports",
+        es: "De la recolección en campo al informe técnico y a los reportes consolidados"
+      },
+      {
+        pt: "Mapa interativo (Google Maps) com pontos e rotas",
+        en: "Interactive map (Google Maps) with points and routes",
+        es: "Mapa interactivo (Google Maps) con puntos y rutas"
+      },
+      {
+        pt: "Backend em Supabase (Postgres + RLS) com migrations versionadas",
+        en: "Backend on Supabase (Postgres + RLS) with versioned migrations",
+        es: "Backend en Supabase (Postgres + RLS) con migraciones versionadas"
       }
     ]
   },
