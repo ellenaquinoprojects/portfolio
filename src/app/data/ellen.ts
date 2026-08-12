@@ -145,6 +145,7 @@ export const data = {
       highlights: [
         "Descoberta e estratégia de produto em estágios early e growth, alinhando insights, viabilidade técnica e valor de negócio.",
         "Co-criação de estratégias com PM/Design/Tech Leads; priorização de roadmap e critérios de sucesso.",
+        "Construção de um centro de excelência em qualidade: criação de produtos e processos internos de governança adotados pelos times.",
         "Loops de feedback, métricas e experimentação integrados a discovery e delivery."
       ]
     },
@@ -154,8 +155,8 @@ export const data = {
       location: "Brasil",
       period: "2020 — 2023",
       highlights: [
-        "Estratégias de qualidade e segurança em múltiplas frentes B2B/B2C; parceria no planejamento e entrega.",
-        "Escalonamento de operações de qualidade e autonomia das equipes; contribuição em OKRs e processos."
+        "Liderança de qualidade, segurança e governança de processos e produtos em múltiplas frentes B2B/B2C, como parceria estratégica no planejamento e na entrega.",
+        "Escalonamento de operações de qualidade e autonomia das equipes; contribuição em OKRs e desenho de processos."
       ]
     },
     {

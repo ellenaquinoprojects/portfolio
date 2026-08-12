@@ -208,9 +208,9 @@ export const contentTranslations = {
         location: "Portugal",
         period: "2023 — presente",
         highlights: [
+          "Centro de excelência em qualidade: criação de produtos e processos internos de governança, adotados pelos times.",
           "Descoberta e estratégia de produto em estágios early e growth, alinhando insights, viabilidade técnica e valor de negócio.",
-          "Co-criação de estratégias com PM/Design/Tech Leads; priorização de roadmap e critérios de sucesso.",
-          "Loops de feedback, métricas e experimentação integrados a discovery e delivery."
+          "Co-criação de estratégias com PM/Design/Tech Leads; priorização de roadmap, critérios de sucesso e experimentação."
         ]
       },
       {
@@ -219,8 +219,8 @@ export const contentTranslations = {
         location: "Brasil",
         period: "2020 — 2023",
         highlights: [
-          "Estratégias de qualidade e segurança em múltiplas frentes B2B/B2C; parceria no planejamento e entrega.",
-          "Escalonamento de operações de qualidade e autonomia das equipes; contribuição em OKRs e processos."
+          "Liderança de qualidade, segurança e governança de processos e produtos em múltiplas frentes B2B/B2C, como parceria estratégica no planejamento e na entrega.",
+          "Escalonamento de operações de qualidade e autonomia das equipes; contribuição em OKRs e desenho de processos."
         ]
       },
       {
@@ -280,9 +280,9 @@ export const contentTranslations = {
         location: "Portugal",
         period: "2023 — present",
         highlights: [
+          "Quality center of excellence: building internal products and process governance adopted across teams.",
           "Product discovery and strategy in early and growth stages, aligning insights, technical feasibility, and business value.",
-          "Co-creation of strategies with PM/Design/Tech Leads; roadmap prioritization and success criteria.",
-          "Feedback loops, metrics, and experimentation integrated into discovery and delivery."
+          "Co-creation of strategies with PM/Design/Tech Leads; roadmap prioritization, success criteria, and experimentation."
         ]
       },
       {
@@ -291,8 +291,8 @@ export const contentTranslations = {
         location: "Brazil",
         period: "2020 — 2023",
         highlights: [
-          "Quality and security strategies across multiple B2B/B2C fronts; partnership in planning and delivery.",
-          "Scaling quality operations and team autonomy; contribution to OKRs and processes."
+          "Led quality, security, and governance of processes and products across multiple B2B/B2C fronts, as a strategic partner in planning and delivery.",
+          "Scaling quality operations and team autonomy; contribution to OKRs and process design."
         ]
       },
       {
@@ -352,9 +352,9 @@ export const contentTranslations = {
         location: "Portugal",
         period: "2023 — presente",
         highlights: [
+          "Centro de excelencia en calidad: creación de productos y procesos internos de gobernanza, adoptados por los equipos.",
           "Descubrimiento y estrategia de producto en etapas early y growth, alineando insights, viabilidad técnica y valor de negocio.",
-          "Co-creación de estrategias con PM/Design/Tech Leads; priorización de roadmap y criterios de éxito.",
-          "Loops de feedback, métricas y experimentación integrados a discovery y delivery."
+          "Co-creación de estrategias con PM/Design/Tech Leads; priorización de roadmap, criterios de éxito y experimentación."
         ]
       },
       {
@@ -363,8 +363,8 @@ export const contentTranslations = {
         location: "Brasil",
         period: "2020 — 2023",
         highlights: [
-          "Estrategias de calidad y seguridad en múltiples frentes B2B/B2C; colaboración en planificación y entrega.",
-          "Escalamiento de operaciones de calidad y autonomía de equipos; contribución en OKRs y procesos."
+          "Liderazgo de calidad, seguridad y gobernanza de procesos y productos en múltiples frentes B2B/B2C, como colaboración estratégica en planificación y entrega.",
+          "Escalamiento de operaciones de calidad y autonomía de equipos; contribución en OKRs y diseño de procesos."
         ]
       },
       {
