@@ -635,7 +635,7 @@ export const data = {
       links: [],
       media: [],
       supporters: [],
-      thumb: ""
+      thumb: `${import.meta.env.BASE_URL}passaporte-acessivel-hero.png`
     }
   ],
   
