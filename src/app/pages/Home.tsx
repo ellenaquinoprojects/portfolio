@@ -14,7 +14,7 @@ import { useRef } from "react";
 export function Home() {
   const { language } = useLanguage();
   const t = useTranslation(language);
-  const featuredSlugs = ["gghub-approach-tours", "qualitymap-app", "quality-score-metodologia", "colegio-kingdom"];
+  const featuredSlugs = ["gghub-approach-tours", "passaporte-acessivel", "quality-score-metodologia", "colegio-kingdom"];
   const featuredProjects = featuredSlugs
     .map(slug => data.portfolio.find(project => project.slug === slug))
     .filter((project): project is (typeof data.portfolio)[number] => Boolean(project));

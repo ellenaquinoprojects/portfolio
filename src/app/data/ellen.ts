@@ -282,8 +282,8 @@ export const data = {
     },
     {
       slug: "qualitymap-app",
-      title: "QualityMap App — Spinoff e Plataforma de Inteligência em Qualidade",
-      tags: ["Product Leadership", "BI + AI", "SaaS", "Data Analytics", "Spinoff"],
+      title: "QualityMap App — Plataforma de Inteligência em Qualidade",
+      tags: ["Product Leadership", "BI + AI", "SaaS", "Data Analytics"],
       summary: "Plataforma de Business Intelligence com IA que transforma qualidade em motor estratégico de crescimento, conectando produto, processos e pessoas através de diagnósticos automatizados, análises preditivas e dashboards dinâmicos.",
       quickInfo: {
         problem: "Mercado de qualidade atua reativamente sem ferramentas integradas, gerando retrabalho, desperdício e decisões baseadas em percepção ao invés de dados.",
@@ -292,7 +292,7 @@ export const data = {
         result: "664 acessos e 50 empresas ativas em 6 meses sem mídia paga • MVP validou tração orgânica e product-market fit"
       },
       challenge: "Equipes de qualidade atuam reativamente sem visão estratégica integrada. O desafio era reposicionar QA de centro de custo para motor de crescimento orientado por dados, escalando o know-how consultivo em plataforma autônoma.",
-      approach: "Spinoff BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.",
+      approach: "Plataforma BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.",
       role: "CPO & Co-Founder. Defini visão/roadmap, liderei discovery e modelagem de dados (7 dimensões), orientei design/desenvolvimento de features-chave garantindo usabilidade, escalabilidade e impacto mensurável.",
       keyFeatures: [
         "Maturity Score (QualityScore) integrado como métrica central",

@@ -558,7 +558,7 @@ export const contentTranslations = {
     },
     'qualitymap-app': {
       pt: {
-        title: "QualityMap App — Spinoff e Plataforma de Inteligência em Qualidade",
+        title: "QualityMap App — Plataforma de Inteligência em Qualidade",
         summary: "Plataforma de Business Intelligence com IA que transforma qualidade em motor estratégico de crescimento, conectando produto, processos e pessoas através de diagnósticos automatizados, análises preditivas e dashboards dinâmicos.",
         quickInfo: {
           problem: "Mercado de qualidade atua reativamente sem ferramentas integradas, gerando retrabalho, desperdício e decisões baseadas em percepção ao invés de dados.",
@@ -567,7 +567,7 @@ export const contentTranslations = {
           result: "664 acessos e 50 empresas ativas em 6 meses sem mídia paga • MVP validou tração orgânica e product-market fit"
         },
         challenge: "Equipes de qualidade atuam reativamente sem visão estratégica integrada. O desafio era reposicionar QA de centro de custo para motor de crescimento orientado por dados, escalando o know-how consultivo em plataforma autônoma.",
-        approach: "Spinoff BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.",
+        approach: "Plataforma BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.",
         role: "CPO & Co-Founder. Defini visão/roadmap, liderei discovery e modelagem de dados (7 dimensões), orientei design/desenvolvimento de features-chave garantindo usabilidade, escalabilidade e impacto mensurável.",
         keyFeatures: [
           "Maturity Score (QualityScore) integrado como métrica central",
@@ -581,7 +581,7 @@ export const contentTranslations = {
         strategicVisionDescription: "A plataforma oferece visualizações avançadas que transformam dados brutos em insights estratégicos. Através de gráficos interativos e análises multidimensionais, gestores podem identificar tendências, prever riscos e tomar decisões baseadas em evidências concretas."
       },
       en: {
-        title: "QualityMap App — Spinoff and Quality Intelligence Platform",
+        title: "QualityMap App — Quality Intelligence Platform",
         summary: "Business Intelligence platform with AI that transforms quality into a strategic growth engine, connecting product, processes, and people through automated diagnostics, predictive analytics, and dynamic dashboards.",
         quickInfo: {
           problem: "Quality market acts reactively without integrated tools, generating rework, waste, and perception-based decisions instead of data-driven ones.",
@@ -590,7 +590,7 @@ export const contentTranslations = {
           result: "664 accesses and 50 active companies in 6 months without paid media • MVP validated organic traction and product-market fit"
         },
         challenge: "Quality teams act reactively without integrated strategic vision. The challenge was to reposition QA from cost center to data-driven growth engine, scaling consultative know-how into an autonomous platform.",
-        approach: "BI+AI spinoff that measures, predicts, and guides quality maturity through automated diagnostics, intelligent data crossover (product × process × people), and ROI insights with scalable multitenant architecture.",
+        approach: "BI+AI platform that measures, predicts, and guides quality maturity through automated diagnostics, intelligent data crossover (product × process × people), and ROI insights with scalable multitenant architecture.",
         role: "CPO & Co-Founder. Defined vision/roadmap, led discovery and data modeling (7 dimensions), guided design/development of key features ensuring usability, scalability, and measurable impact.",
         keyFeatures: [
           "Maturity Score (QualityScore) integrated as central metric",
@@ -604,7 +604,7 @@ export const contentTranslations = {
         strategicVisionDescription: "The platform offers advanced visualizations that transform raw data into strategic insights. Through interactive charts and multidimensional analyses, managers can identify trends, predict risks, and make decisions based on concrete evidence."
       },
       es: {
-        title: "QualityMap App — Spinoff y Plataforma de Inteligencia en Calidad",
+        title: "QualityMap App — Plataforma de Inteligencia en Calidad",
         summary: "Plataforma de Business Intelligence con IA que transforma la calidad en motor estratégico de crecimiento, conectando producto, procesos y personas a través de diagnósticos automatizados, análisis predictivos y dashboards dinámicos.",
         quickInfo: {
           problem: "Mercado de calidad actúa reactivamente sin herramientas integradas, generando retrabajo, desperdicio y decisiones basadas en percepción en lugar de datos.",
@@ -613,7 +613,7 @@ export const contentTranslations = {
           result: "664 accesos y 50 empresas activas en 6 meses sin medios pagados • MVP validó tracción orgánica y product-market fit"
         },
         challenge: "Equipos de calidad actúan reactivamente sin visión estratégica integrada. El desafío era reposicionar QA de centro de costos a motor de crecimiento orientado por datos, escalando el know-how consultivo en plataforma autónoma.",
-        approach: "Spinoff BI+AI que mide, predice y guía madurez de calidad a través de diagnósticos automatizados, cruce inteligente de datos (producto × proceso × personas), e insights de ROI con arquitectura multitenant escalable.",
+        approach: "Plataforma BI+AI que mide, predice y guía madurez de calidad a través de diagnósticos automatizados, cruce inteligente de datos (producto × proceso × personas), e insights de ROI con arquitectura multitenant escalable.",
         role: "CPO & Co-Founder. Definí visión/roadmap, lideré discovery y modelado de datos (7 dimensiones), orienté diseño/desarrollo de features clave garantizando usabilidad, escalabilidad e impacto medible.",
         keyFeatures: [
           "Maturity Score (QualityScore) integrado como métrica central",
