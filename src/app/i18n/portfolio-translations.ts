@@ -278,9 +278,9 @@ export const portfolioTranslations: ProjectTranslations = {
       es: "Equipos de calidad actúan reactivamente sin visión estratégica integrada. El desafío era reposicionar QA de centro de costos a motor de crecimiento orientado por datos, escalando el know-how consultivo en plataforma autónoma."
     },
     approach: {
-      pt: "Spinoff BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.",
-      en: "BI+AI spinoff that measures, predicts, and guides quality maturity through automated diagnostics, intelligent data crossover (product × process × people), and ROI insights with scalable multitenant architecture.",
-      es: "Spinoff BI+AI que mide, predice y guía madurez de calidad a través de diagnósticos automatizados, cruce inteligente de datos (producto × proceso × personas), e insights de ROI con arquitectura multitenant escalable."
+      pt: "Plataforma BI+AI que mede, prevê e guia maturidade de qualidade através de diagnósticos automatizados, cruzamento inteligente de dados (produto × processo × pessoas), e insights de ROI com arquitetura multitenant escalável.",
+      en: "BI+AI platform that measures, predicts, and guides quality maturity through automated diagnostics, intelligent data crossover (product × process × people), and ROI insights with scalable multitenant architecture.",
+      es: "Plataforma BI+AI que mide, predice y guía madurez de calidad a través de diagnósticos automatizados, cruce inteligente de datos (producto × proceso × personas), e insights de ROI con arquitectura multitenant escalable."
     },
     role: {
       pt: "CPO & Co-Founder. Defini visão/roadmap, liderei discovery e modelagem de dados (7 dimensões), orientei design/desenvolvimento de features-chave garantindo usabilidade, escalabilidade e impacto mensurável.",
