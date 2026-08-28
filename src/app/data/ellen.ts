@@ -609,7 +609,7 @@ export const data = {
       supporters: [
         { name: "Approach Tours", url: "https://approachtours.com", logo: "" }
       ],
-      thumb: ""
+      thumb: `${import.meta.env.BASE_URL}thub-approach-tours-hero.png`
     },
     {
       slug: "passaporte-acessivel",
